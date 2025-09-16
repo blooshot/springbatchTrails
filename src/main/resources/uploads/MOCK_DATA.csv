@@ -1,0 +1,1001 @@
+user_id,title,description,instock,quantity,price
+90,Mediterranean Olives,A mix of brined Mediterranean olives for snacking.,true,136,23600.52
+69,Bike Repair Tool Kit,Essential tools for bike maintenance and repair.,false,305,333.44
+91,Wireless Charger,Qi-certified wireless charger for fast charging.,false,360,182.27
+97,Classic Caesar Dressing,Rich and creamy Caesar dressing for salads and wraps.,true,167,53839.0
+90,Pasta Primavera Kit,Quick meal kit with pasta and fresh vegetables.,false,99,21303.97
+21,Almond Butter,Creamy almond butter made from roasted almonds.,false,400,25584.47
+33,Multi-Tool,Versatile multi-tool with 15 different functions.,true,286,10328.59
+69,Instant Camera,Retro instant camera for capturing and printing photos instantly.,false,35,57939.65
+24,Ceramic Planter Set,Set of decorative ceramic planters for indoor plants.,true,363,30045.6
+69,Peach Halves (canned),"Sweet peach halves packed in juice, great for desserts.",true,349,15096.84
+59,Honey mustard chicken tenders,Golden crispy chicken tenders coated with honey mustard flavor.,false,289,3794.33
+89,Ground Turkey,"Lean and versatile ground turkey, perfect for various dishes.",true,336,16131.72
+90,Emergency Preparedness Kit,Complete kit for emergency situations including food and water.,true,189,10629.97
+90,Yoga Wheel,Supportive yoga wheel for deep stretching and balance.,false,568,18750.64
+34,Digital Wireless Camera,Secure digital wireless security camera system.,true,129,33433.02
+67,Cilantro Lime Rice,"Easy-to-prepare rice with cilantro and lime flavors, great as a side.",true,79,29832.51
+85,Grilled Vegetable Medley,"A mix of grilled vegetables, ready to heat for quick side dishes.",false,178,55581.85
+69,Lightweight Rain Jacket,"Water-resistant jacket ideal for outdoor activities, featuring a packable design.",false,291,58141.42
+69,Basmati Rice,"Aromatic long-grain basmati rice, perfect for curries.",true,56,27951.99
+24,Fitness Jump Rope with LCD Counter,Weighted jump rope that counts jumps and calories burned.,false,439,31028.71
+48,Whole Wheat Pita Bread,"Soft and fluffy whole wheat pita bread, great for wraps.",false,537,27813.37
+84,Coconut Curry Sauce,A flavorful sauce made with coconut milk and spices.,true,77,41693.38
+30,Fitness Activity Journal,Journal to record workouts and nutrition.,true,390,49022.84
+36,Digital Food Scale,Precision digital scale for accurate cooking measurements.,false,99,4588.44
+95,Breezy Off-The-Shoulder Top,A light and breezy top ideal for warm days.,true,301,23164.91
+100,Vegan Protein Powder,Plant-based protein powder for post-workout recovery.,true,116,59769.83
+66,Strawberry Banana Smoothie Pack,Frozen smoothie pack with strawberries and bananas.,false,592,23278.9
+91,Nut Mix,A blend of mixed nuts for snacking.,false,521,56920.57
+67,Chickpea Flour,"Gluten-free flour made from ground chickpeas, great for cooking.",false,454,19613.52
+32,Butternut Squash Soup,"Creamy and delicious soup made with real butternut squash, ready to heat.",true,47,12158.78
+45,Silicone Baking Mat,Non-stick baking mat for easy cooking and cleanup.,true,585,41767.0
+93,Foot Massager,Electric foot massager with heat settings.,true,30,48828.56
+43,Fitness Resistance Bands Kit,Set with various resistance bands for workouts.,false,24,38010.08
+26,Wireless Earbud Silicone Covers,Soft silicone earbud covers for comfort and fit.,true,495,15631.58
+21,Legging Pants,Comfortable and stretchy legging pants perfect for workouts or daily wear.,true,132,14763.64
+30,Chipotle Seasoning Blend,A smoky blend of spices for grilling and roasting.,true,70,47448.49
+62,Leather Biker Jacket,Stylish black leather jacket featuring a zip-up front and multiple pockets.,true,533,7442.25
+92,Zesty Garlic Hummus,Creamy chickpea dip infused with zesty garlic flavor.,false,479,9362.43
+96,Warm Wool Sweater,Cozy wool sweater to keep you warm on chilly days.,true,373,22174.39
+68,Self-Cleaning Cat Litter Box,Automated litter box that cleans itself after each use.,true,384,20194.12
+70,Miso Dressing,Flavorful dressing made with miso paste,true,121,35843.63
+62,Lemonade Mix,Sweetened powder for refreshing lemonade.,true,512,9627.9
+40,Chocolate Raspberry Tart,"Rich tart filled with chocolate and raspberry, a gourmet dessert.",true,407,29589.63
+83,Portable Massage Table,Folding massage table for professional or home use.,true,521,49065.64
+35,Canvas Wall Art,Stylish wall art to enhance home decor.,true,485,54169.61
+36,Yoga Blocks,Set of two yoga blocks for increased stability and support.,false,400,55016.59
+41,Fruit and Nut Bars,Individually packaged bars made with dried fruits and nuts.,false,134,27263.93
+32,Whole Roasted Chicken,"Seasoned and roasted to perfection, ready to eat.",false,410,7238.74
+62,Granulated Sugar,Fine granulated sugar for all your baking needs.,true,19,22630.68
+67,Sesame Seeds,Crunchy seeds perfect for toppings and baking.,true,599,39655.09
+87,Magnetic Curtain Tiebacks,Easy-to-use tiebacks for curtains or drapes.,true,159,26992.0
+89,Organic Baby Spinach,"Fresh baby spinach leaves, great for salads and smoothies.",true,300,5504.55
+94,Garlic Parmesan Wings,Frozen chicken wings with garlic parmesan sauce.,true,378,56229.6
+59,Non-Toxic Crayons for Kids,Safe and vibrant crayons for children's art projects.,true,565,43214.29
+80,Eco-Friendly Yoga Mat,Made from biodegradable materials for eco-conscious yogis.,true,341,58168.05
+68,Sesame Seeds,Crunchy seeds perfect for toppings and baking.,true,9,8195.26
+70,Bicycle Lock,Heavy-duty bicycle lock for security.,true,114,18462.86
+74,Chicken Sausage,"Flavorful chicken sausage, low in fat and fully cooked.",false,555,55986.81
+74,Halloween Decoration Set,Fun decorations for Halloween to set a spooky atmosphere.,false,347,53317.76
+43,Art Supplies Organizer,Storage organizer for art supplies and tools.,false,509,909.64
+60,High-Pressure Handheld Shower Head,Shower head designed for a strong spray and complete coverage.,true,15,11531.47
+88,Creamy Tomato Basil Soup,"Rich and creamy tomato basil soup, perfect with a grilled cheese.",false,348,27114.59
+35,Rechargeable Electric Screwdriver,Convenient electric screwdriver for DIY projects at home.,false,71,44658.94
+58,Pressure Washer Accessories Kit,Essential attachments for pressure washing.,true,103,12972.77
+86,Smoked Paprika,Add a smoky flavor to your dishes.,false,271,38603.69
+50,Electric Toothbrush Holder,Sanitary holder that ensures your toothbrush stays clean.,false,579,35202.08
+97,Pumpkin Ice Cream,"Seasonal pumpkin ice cream, perfect for fall.",false,197,14087.99
+88,Winter Knit Beanie,Cozy beanie hat to keep your head warm in the cold.,true,313,8512.56
+35,Maple Pecan Granola,"Crunchy granola with maple syrup and pecans, great for breakfast or snacking.",true,343,30574.13
+99,Insulated Wine Tote,Stylish tote to keep wine bottles chilled while traveling.,false,381,13855.82
+98,Himalayan Pink Salt,"Natural mineral salt with a subtle flavor, ideal for cooking and seasoning.",false,360,45723.1
+46,Andouille Sausage,Spicy and smoky sausage great for grilling.,true,206,3405.58
+28,Diced Tomatoes (canned),"Canned diced tomatoes, great base for sauces and soups.",true,488,12876.86
+73,Baby Monitor,Video baby monitor with night vision.,true,40,13164.14
+32,Sushi Roll Kit,All ingredients needed to make your own sushi,false,586,47400.34
+96,Beef Stroganoff Mix,Everything you need to create a hearty beef stroganoff.,false,508,49062.29
+36,Kettle BBQ Grill,Charcoal kettle grill perfect for backyard barbecues.,true,522,4525.04
+44,Plant-Based Protein Bars,Nutritious protein bars for on-the-go snacking.,false,153,38557.39
+60,Sliced Cheese,"Assorted sliced cheese, perfect for sandwiches.",true,499,8929.11
+58,Comfort Flats,Everyday flats that combine comfort and style.,false,330,8461.6
+71,Folding Pocket Knife,Compact knife with safety lock for everyday use.,true,228,46987.79
+99,Beef Tacos,"Pre-seasoned beef mix for delicious tacos, just heat and serve.",true,35,52147.27
+72,Handcrafted Wooden Jewelry Box,Beautifully crafted jewelry box with compartments for storage.,true,200,28446.02
+37,Organic Green Apples,"Fresh and tart organic green apples, great for snacking or baking.",false,445,10092.93
+50,Body Pillow Case,Soft and breathable pillowcase for body pillows.,true,569,18091.43
+80,Sports Windbreaker,Lightweight windbreaker for outdoor activities.,false,196,16316.47
+29,Mini Indoor Hydroponic Garden,Grow herbs indoors with this easy-to-use hydroponic garden system.,true,260,37756.56
+32,Canvas Wall Art,Stylish wall art to enhance home decor.,true,413,52435.52
+51,Chiffon Blouse,Elegant chiffon blouse perfect for work or outings.,false,67,40853.9
+41,Spicy Chicken Wings,"Wide range of flavored wings, perfect for parties or casual snacking.",false,296,8765.22
+45,Granola,Crunchy and flavorful mix of oats and honey.,true,58,45089.58
+78,Collapsible Water Bottle,Space-saving collapsible bottle for outdoor activities.,false,36,12422.02
+57,Multi-Function Meat Tenderizer,Kitchen tool for tenderizing meat to enhance flavors.,false,216,14349.36
+74,Vegan Taco Seasoning,Spice blend for creating flavorful vegan taco filling.,true,325,10159.3
+95,Savory Oatmeal Cups,"Savory oatmeal ready to eat, great for breakfast or a snack.",false,6,40722.83
+93,Jasmine Rice,"Fragrant jasmine rice, perfect as a side dish.",true,597,57659.08
+100,Barbecue Chicken Pizza,"Pizza topped with barbecue chicken, cheese, and red onions.",true,69,41906.94
+97,Teriyaki Salmon Fillets,"Frozen salmon fillets marinated in teriyaki sauce, ready to grill or bake.",false,247,19370.77
+80,Maxi Wrap Dress,A flowy maxi dress perfect for both casual and semi-formal occasions.,true,170,15737.93
+49,Portable Air Pump,Compact pump ideal for inflating sports equipment or rafts.,false,25,31650.38
+26,Digital Thermostat,Programmable digital thermostat for home heating.,false,42,3435.98
+100,Almond Flour Biscuits,Gluten-free biscuits made with almond flour.,true,113,42485.47
+99,Spice Rack,Rotating spice rack with 20 spice jars.,true,411,45555.53
+34,Winter Insulated Jacket,Warm and stylish jacket for cold weather.,false,44,35885.49
+75,Non-Toxic Crayons for Kids,Safe and vibrant crayons for children's art projects.,false,496,7964.86
+95,Garden Kneeler and Seat,Convertible kneeler and seat for gardening comfort.,false,60,7135.23
+70,Men's Waterproof Hiking Boots,Durable boots designed for outdoor hiking and activities.,true,186,19334.85
+22,Garlic Butter Sauce,A rich sauce perfect for pasta or drizzling over vegetables.,true,533,44019.96
+49,Portable UV Sterilizer,Compact sterilizer for disinfecting small items.,false,408,2097.67
+81,Outdoor Picnic Blanket,Water-resistant blanket for picnics and outdoor events.,true,547,53351.12
+40,Sweet Potato Chips,"Deliciously crunchy sweet potato chips, seasoned to perfection.",true,405,24792.15
+93,Casual Sneakers,Versatile canvas sneakers suitable for everyday wear with a comfortable fit.,true,236,1532.01
+94,Classic Cheesecake Mix,"A simple, no-bake cheesecake mix to create your own delicious cheesecake.",true,51,54604.88
+56,Herb Garlic Butter,"A flavorful garlic butter blend, perfect for cooking or baking.",true,7,57781.52
+45,Shredded Cheese,"Blend of cheddar and mozzarella cheese, great for recipes.",false,323,25933.47
+62,Sweet and Sour Sauce,Perfect dipping sauce or stir-fry addition for a sweet and tangy flavor.,true,295,3036.87
+99,Noise-Canceling Earbuds,Wireless earbuds designed for immersive sound experience.,true,236,37852.13
+52,Portable Hammock with Stand,Lightweight hammock with a sturdy stand for relaxation anywhere.,false,487,5875.36
+89,Taro Chips,"Crispy chips made from taro root, a wonderful snack.",false,542,9206.97
+34,Almond Butter Crunch Bar,Nutritious snack bar made with almond butter and protein.,true,300,1930.1
+60,Wireless Charger Stand,Convenient charging stand for smartphones and devices.,false,82,19313.74
+25,Kale and Quinoa Salad,"A nutritious salad with kale, quinoa, and a zesty lemon dressing.",true,420,1765.01
+39,Honeycrisp Apples,"Crisp and sweet Honeycrisp apples, freshly picked.",false,115,43758.71
+64,Smoked Paprika,Add a smoky flavor to your dishes.,false,117,15334.49
+45,Bike Repair Tool Kit,Essential tools for bike maintenance and repair.,false,440,3783.75
+34,Teriyaki Beef Strips,Marinated beef strips in teriyaki sauce for easy grilling.,false,527,47048.46
+46,Smart Light Bulbs,Color-changing smart LED bulbs compatible with Alexa.,true,126,58963.98
+62,Personalized Keychain,Custom keychain with engraved text.,false,310,20388.32
+72,Pumpkin Ice Cream,"Seasonal pumpkin ice cream, perfect for fall.",true,514,497.12
+27,High-Pressure Handheld Shower Head,Shower head designed for a strong spray and complete coverage.,false,248,22403.73
+64,Motion Sensor Light,Battery-operated motion sensor light for safety.,false,566,56432.27
+97,Stylish Wide-Leg Trousers,Fashionable wide-leg trousers for a chic silhouette.,true,87,50362.77
+66,Sparkling Blood Orange Soda,A refreshing sparkling beverage with a bold blood orange flavor.,true,448,7308.68
+54,Portable Bluetooth Keyboard,Compact keyboard for tablets and smartphones.,true,34,27449.3
+37,Portable Water Filter,Lightweight water filter for outdoor adventures.,false,28,25104.47
+98,Buffalo Style Cauliflower Bites,"Frozen cauliflower bites coated in spicy buffalo sauce, ready to bake and enjoy as an appetizer.",true,422,14113.38
+82,Almond Milk,"Deliciously creamy almond milk, perfect for smoothies.",true,127,18088.88
+80,Plant Pot Drip Trays,Prevent water damage with drip trays for potted plants.,false,505,42522.39
+92,Baked Potato Chips,"Light and crispy baked chips, a healthier snack option.",false,274,19211.39
+36,Set of Silicone Cooking Utensils,Non-stick utensils for safe and easy cooking.,false,135,17066.96
+84,Whole Grain Mustard,Tangy whole grain mustard for sandwiches and dressings.,false,15,53798.94
+71,Honey Lemon Tea,"Refreshing tea with honey and lemon flavor, perfect for a warm drink.",false,487,16782.09
+70,Phone Case,Rugged phone case for drop protection.,false,312,24551.16
+30,Water-Resistant Bluetooth Speaker,Durable speaker designed for outdoor use with water resistance.,false,272,53299.65
+73,Spicy Tuna Salad,"Ready-to-eat tuna salad with a spicy kick, perfect for sandwiches.",true,189,9491.88
+94,Faux Fur Throw Blanket,Cozy faux fur blanket to add warmth and style to your home.,true,146,17299.4
+71,Smartphone Tripod with Bluetooth Remote,Tripod with wireless remote for effortless photo-taking.,false,47,52660.98
+95,Adjustable Pet Feeder,Convenient feeder that adjusts to your pet's height.,false,222,19854.17
+76,LED Christmas Lights,Eco-friendly LED lights for festive decorations.,false,177,21892.27
+26,Sun-Dried Tomato Pesto,A rich pesto made with sun-dried tomatoes and pine nuts.,true,1,29240.2
+94,Portable Speakers,Bluetooth speakers with excellent sound quality.,false,100,9315.54
+95,Adjustable Yoga Mat Strap,Convenient strap for carrying yoga mats to class.,false,502,30176.15
+40,Fresh Cilantro,"Bright and fragrant cilantro, great for garnishes.",false,279,14188.22
+57,Adjustable Laptop Stand,Ergonomic stand for laptops to improve posture while working.,true,115,56295.84
+59,Electric Pressure Cooker,"Multi-function pressure cooker that can sauté, steam, and slow cook.",false,164,41864.12
+46,Safety First Aid Kit,Comprehensive first aid kit for home or travel emergencies.,true,55,51689.97
+70,Frozen Chicken Nuggets,Crispy chicken nuggets for quick meals.,true,357,4226.78
+58,Balsamic Salad Dressing,"Tangy and sweet balsamic dressing, perfect for salads.",true,486,7421.74
+53,Portable UV Sterilizer,Compact sterilizer for disinfecting small items.,true,349,19666.82
+92,Graphic Hoodie,Bold graphic hoodie featuring a comfortable fit and soft fabric.,false,353,22510.21
+92,LED Strip Lights Kit,DIY LED strip lights with remote control.,false,227,52108.01
+34,Mesh Sports Leggings,Breathable mesh sports leggings for ultimate comfort.,false,205,28536.52
+80,Wireless Earbuds Case,Protective case for wireless earbuds.,false,110,12536.2
+68,Organic Coconut Flour,Finely ground flour from dried coconut meat.,false,243,17489.94
+61,Raisin Cinnamon Granola,Crunchy granola with raisins and cinnamon for a delightful breakfast.,true,24,11588.47
+40,Cinnamon Roll Kit,Everything you need to make melt-in-your-mouth cinnamon rolls at home.,false,318,40401.89
+30,Plant-Based Cookbook,Delicious recipes focusing on plant-based ingredients.,true,415,38554.57
+54,Biodegradable Phone Case,Eco-friendly phone case designed to decompose safely.,false,70,19286.63
+55,Sriracha Chili Sauce,Spicy chili sauce with garlic and sugar for a flavor kick.,true,380,36097.61
+39,Floral Summer Dress,Light and breezy dress perfect for summer outings with a vibrant floral pattern.,true,489,16383.22
+79,Fitness Mat,Thick and durable mat for workouts and yoga.,true,100,29159.74
+66,Frozen Berry Medley,"A mix of strawberries, blueberries, and raspberries, great for smoothies or desserts.",false,598,55688.03
+76,Classic Baseball Cap,A timeless baseball cap that adds a sporty touch to any outfit.,false,165,21364.92
+29,Collapsible Water Bottle,Space-saving collapsible bottle for outdoor activities.,true,132,2983.26
+100,Plant-Based Meal Prep Containers,Eco-friendly meal prep containers for healthy eating.,false,255,24680.76
+86,Peanut Butter Protein Balls,No-bake energy bites made with peanut butter and oats.,true,599,3814.1
+97,Organic Quinoa Salad,A refreshing salad made with quinoa and seasonal veggies.,true,29,32047.8
+76,Electric Skillet,Versatile electric skillet for stir-frying and searing.,true,357,54961.86
+68,Spicy Thai Coconut Soup,"A ready-to-eat soup with coconut milk, spices, and vegetables.",true,302,39580.57
+75,Camping Chair with Cooler,Foldable chair equipped with a cooler pouch.,false,305,57620.23
+79,Plaid Flannel Shirt,"Soft flannel shirt with a timeless plaid pattern, perfect for layering.",false,486,44100.99
+90,Surimi Crab Sticks,"Synthetic crab meat sticks, great for salads and sushi.",true,342,19492.53
+87,Watering Can with Nozzle,Stylish watering can for plants with easy pouring nozzle.,false,599,49450.57
+22,Silicone Baking Molds,Set of flexible molds for baking cakes and pastries.,true,172,26522.98
+81,Organic Black Rice,"Nutty and chewy black rice, high in antioxidants.",false,207,31587.95
+33,Spicy Chicken Wings,"Wide range of flavored wings, perfect for parties or casual snacking.",true,478,42775.33
+74,Frozen Fruit Medley,"A mix of strawberries, blueberries, and raspberries, perfect for smoothies.",false,416,56021.42
+91,Leather Biker Jacket,Stylish black leather jacket featuring a zip-up front and multiple pockets.,true,541,8507.07
+89,Backpack,Durable and spacious backpack for travel and school.,true,142,44045.45
+61,Plant-Based Cookbook,Delicious recipes focusing on plant-based ingredients.,false,415,26125.04
+39,Set of Herb Garden Markers,Stylish markers for labeling your indoor garden plants.,true,138,10186.72
+88,Home Cleaning Robot,Automated cleaning robot for hassle-free home maintenance.,true,139,36464.71
+51,Buffalo Chicken Dip,"Spicy and creamy dip made with shredded chicken, perfect for parties.",false,251,35569.79
+38,Dual Function Electric Skillet,"Skillet that can fry, grill, and sauté with ease.",true,368,27769.1
+22,Wireless Security Camera,1080p wireless security camera with night vision.,true,397,46383.96
+21,Portable Camping Shower,Convenient shower system for camping and outdoor activities.,false,16,31247.56
+36,Pumpkin Pancake Mix,Easy-to-make pancake mix with pumpkin spice flavor.,false,305,12361.19
+90,Smoked Paprika Chicken Thighs,Marinated chicken thighs with smoked paprika for a smoky flavor.,false,266,21901.64
+84,Sweet Potato Fries,"Crispy sweet potato fries, a delicious side dish.",false,35,29540.64
+47,Brussels Sprouts,"Fresh Brussels sprouts, great for roasting or steaming.",false,168,22189.62
+89,Electric Skillet,Versatile electric skillet for stir-frying and searing.,true,106,43843.14
+69,Sweet and Sour Sauce,Perfect dipping sauce or stir-fry addition for a sweet and tangy flavor.,false,311,10354.41
+88,Kids' Gardening Tools Set,Fun and colorful gardening tools designed for children.,true,317,46852.69
+96,Insulated Lunch Bag,Stylish insulated lunch bag for on-the-go meals.,false,548,1260.77
+87,Blackberry Compote,"Sweet blackberry compote, perfect for topping desserts.",true,363,17756.01
+27,Creamy Spinach Dip,"Deliciously creamy spinach dip, perfect for parties.",false,102,4013.91
+70,Jennifer's Amazing Lip Balm Kit,DIY kit to make your own lip balms in various flavors.,false,474,32303.78
+34,Voice-Controlled Speaker,Smart speaker with Alexa and music streaming features.,false,478,52825.85
+67,Luxe Velvet Blazer,Elevate your outfit with this sophisticated velvet blazer.,true,559,28656.84
+25,Fruit Medley Juice,Refreshing juice blend made with various fresh fruits.,false,272,37931.24
+48,Wireless Music Receiver,Stream music from your device to any speaker wirelessly.,true,404,47250.87
+83,Reclining Camping Chair,Foldable reclining camping chair with cup holder.,true,136,44130.0
+50,Coconut Granola,Crunchy granola mixed with coconut flakes.,false,276,21384.65
+34,Chocolate Coconut Granola,"Crunchy granola with chocolate and coconut, great for breakfast or snacks.",true,24,36718.51
+85,Ethically-Sourced Coffee Beans,Freshly roasted coffee beans with rich flavor.,true,523,26702.69
+84,Golf Putting Green,Indoor putting green for practicing your putting skills.,true,200,44995.02
+56,Vegetarian Stir Fry Sauce,Flavorful sauce perfect for stir-frying vegetables and tofu.,false,442,26225.88
+99,Kids' Educational Tablet,Learning tablet with kid-friendly educational apps.,false,467,41706.35
+48,Peach Slices in Syrup,"Sweet and tender peach slices preserved in syrup, great for desserts.",false,48,27021.97
+58,Garden Tool Set with Carrying Bag,Complete set for garden care with a handy carrying bag.,true,375,37123.42
+55,Nutty Granola Clusters,Crunchy granola clusters mixed with nuts and honey.,true,176,22490.4
+89,Smartphone Holder for Car,Secure phone mount for your vehicle's dashboard.,true,253,19560.99
+79,Vanilla Ice Cream,"Creamy and rich vanilla ice cream, a classic dessert.",false,204,5909.82
+77,Natural Soy Candles,Eco-friendly soy candles with a variety of scents.,true,304,50961.96
+85,Savory Breakfast Sausage,"Frozen sausage patties made with herbs and spices, perfect for breakfast sandwiches.",true,454,4709.62
+84,Portable Blender,Battery-operated blender for smoothies on the go.,false,591,21505.68
+43,Caribbean Jerk Marinade,A spicy marinade perfect for chicken and fish.,true,546,35120.58
+32,Cucumber Lime Sparkling Water,Refreshing sparkling water with cucumber and lime flavor.,true,130,41068.97
+35,Adjustable Bar Stools,Stylish bar stools with adjustable height and swivel features.,true,66,59804.88
+77,Sweet Cherry Tomatoes,Fresh and juicy cherry tomatoes for salads and snacking.,true,526,34525.5
+34,Fitness Tracker Band,Affordable fitness tracker with heart rate monitor.,false,366,14523.44
+22,LED Flashing Pet Collar,Safety collar with flashing lights for pets during night walks.,true,256,53068.32
+28,Adjustable Skipping Rope,Durable skipping rope with adjustable length for workouts.,true,12,30911.23
+80,Window Bird Feeder,Suction cup bird feeder for close-up bird watching.,false,32,5112.07
+41,Pet Grooming Gloves,Gentle grooming gloves for shedding pets.,false,253,33120.34
+62,Faux Fur Coat,A luxurious faux fur coat that adds glamour to any outfit.,true,272,12278.79
+51,Puzzle 3D Model Kit,3D model puzzle kit for creative builders.,true,177,29728.58
+45,Desk Organizer Set,Stylish desk set to keep your workspace tidy and organized.,true,432,33053.5
+66,Stainless Steel Mixing Bowls,Set of versatile mixing bowls for cooking.,true,464,42299.51
+80,Sweet and Sour Sauce,Perfect dipping sauce or stir-fry addition for a sweet and tangy flavor.,false,245,766.38
+65,High-Speed Blender,Powerful blender for smoothies and soups.,true,263,31109.69
+50,Granola,Crunchy and flavorful mix of oats and honey.,false,482,32152.25
+30,Chic Ankle Strap Heels,Stylish ankle strap heels for a classy look at any event.,true,224,3759.55
+33,Cable Knit Cardigan,Cozy cable knit cardigan to layer during chilly evenings.,true,212,58068.77
+53,Organic Green Apples,"Fresh and tart organic green apples, great for snacking or baking.",true,262,48798.72
+63,Glass Food Containers,BPA-free glass containers for safe food storage.,true,325,48821.53
+73,Sriracha Sauce,Spicy chili sauce for an extra kick in your meals.,true,68,13592.95
+35,Hummus Variety Pack,"A selection of different flavored hummus, great for snacking.",true,560,53987.46
+26,Cork Yoga Mat,Eco-friendly yoga mat made from sustainable materials.,true,131,48764.0
+61,Wireless Car Charger,Convenient charging pad for wireless charging in vehicles.,true,262,38063.98
+85,Sweet Potato Noodles,"Pasta alternative made from sweet potatoes, gluten-free and rich in flavor.",false,591,24629.34
+100,Herbed Chicken Breast,"Marinated chicken breast seasoned with herbs, ready for grilling.",true,584,23400.82
+85,Savory Oats,"Instant oats with a savory twist, such as herbs and spices.",false,291,25236.98
+63,Portable Dog Water Bottle,Convenient water bottle for pets on the go.,true,504,13598.56
+62,Mini Air Purifier,Battery-operated air purifier for small spaces.,false,372,31507.03
+65,Vegan Chocolate Cake Mix,Plant-based mix for a rich chocolate cake.,true,286,6868.98
+87,Ice Pack,Reusable gel ice pack for injuries and cooling.,false,278,57339.32
+60,Electric Hot Pot,Compact electric pot for hot pot dining at home.,false,303,25073.01
+99,Thai Basil Fried Rice,Fragrant fried rice with authentic Thai basil and veggies.,false,491,35487.56
+88,Garden Tool Belt,Handy belt for carrying garden tools while working.,false,50,30404.2
+54,Chocolate Dipped Fruit,"Fruits dipped in rich chocolate, perfect for desserts.",true,3,50261.86
+58,Coconut Cashew Yogurt,"Creamy yogurt made with coconut and cashews, dairy-free.",true,4,38454.12
+69,Electric Ice Cream Maker,Make delicious ice cream at home with this user-friendly machine.,false,581,48406.29
+76,Glass Tea Pot,Elegant glass teapot for brewing loose tea.,true,445,38728.44
+88,Fleece Throw Blanket,"Super soft fleece blanket, perfect for coziness.",true,545,15617.4
+85,Digital Stopwatch Timer,Accurate stopwatch for timing events and workouts.,true,367,33156.68
+21,Multi-Purpose Marine Rope,"Heavy-duty rope suitable for boating, camping, and general use.",true,66,1402.94
+64,Mini Projector,Portable projector with 1080p resolution for movies.,false,571,13062.39
+75,Spaghetti and Meatball Dinner Kit,"All-in-one meal kit including pasta, meatballs, and sauce for a quick dinner.",false,214,52385.47
+85,Garlic Breadsticks,"Ready-to-bake garlic breadsticks, perfect with pasta dishes.",false,398,42010.42
+96,Electric Fondue Pot,Set for making fondue at home.,true,516,45431.29
+85,Travel Document Organizer,"Organize travel documents, passport, and cards.",true,264,14782.54
+47,Smart Water Bottle with Hydration Reminder,Bottle that tracks your water intake and reminds you to drink.,true,246,39367.36
+61,Chopping Board,Reversible bamboo chopping board for food prep.,false,499,43423.58
+51,Oven-Baked Parmesan Zucchini,"Frozen zucchini slices coated in parmesan cheese, perfect for baking or frying.",false,600,6020.17
+56,Chocolate Chip Pancake Mix,Easy-to-make pancake mix with chocolate chips included.,false,377,50775.74
+52,Fried Rice,"Pre-cooked vegetable fried rice, just heat and serve.",true,202,57411.53
+35,Beard Grooming Kit,Everything you need for maintaining a healthy beard.,true,128,31344.67
+46,Chipotle Sauce,Spicy sauce made with chipotle peppers,true,182,18487.26
+69,Comfortable Jogger Pants,"Relaxed fit joggers made from soft fleece, ideal for lounging or workouts.",false,585,27231.13
+82,Savory Trail Mix,"A blend of nuts, seeds, and spices for a healthy snack.",false,495,18401.72
+65,Almond Flour Pizza Crust,"Low-carb pizza crust made from almond flour, gluten-free.",false,145,48334.87
+66,Cocktail Shaker Set,"Bartender kit with shaker, jigger, and strainer.",true,299,35430.07
+82,Portable Laptop Table,Foldable table for working with laptops anywhere.,false,568,40207.11
+58,Sriracha Hot Chili Sauce,Spicy and tangy chili sauce for adding heat to any dish.,false,471,26355.68
+37,Chili Powder,Spicy chili powder to add heat to dishes.,true,78,43236.15
+79,Cable Knit Beanie,A cozy cable knit beanie to keep your head warm in winter.,true,401,8674.12
+60,Fridge Magnet Set,Fun fridge magnets to decorate your kitchen.,false,173,59497.26
+89,Chicken Broth,"Rich and flavorful chicken broth, great for soups.",false,13,31885.26
+59,Cranberry Orange Oatmeal,Instant oatmeal flavored with cranberries and orange zest for breakfast.,true,93,46942.44
+100,Bamboo Bathtub Caddy,"Expandable caddy for holding books, phones, and snacks while in the bath.",true,219,40901.62
+70,Cherry Almond Protein Bar,"Nutritious protein bar with cherry and almond flavor, great for on-the-go.",false,226,50771.36
+53,Cabbage Slaw Mix,Fresh cabbage and carrot slaw mix for salads.,true,455,33924.89
+96,Spaghetti Squash,Low-carb vegetable for pasta alternatives.,false,348,48599.08
+97,Cinnamon Sugar Popcorn,Sweet popcorn coated in a mixture of cinnamon and sugar.,true,543,48505.2
+51,Organic Green Apples,"Fresh and tart organic green apples, great for snacking or baking.",true,114,57859.92
+57,Frozen Fruit Medley,"A mix of strawberries, blueberries, and raspberries, perfect for smoothies.",false,43,19940.21
+29,Workstation Laptop Stand,Adjustable stand to improve ergonomics while working on a laptop.,false,586,28751.57
+77,Greek Feta Cheese,Creamy and crumbly cheese for salads and dishes.,false,115,45201.88
+53,Smartwatch,Stylish smartwatch with fitness tracking features.,false,309,14646.08
+54,Tuscan Bean Soup,A hearty mix of beans in a flavorful tomato broth.,false,522,18136.13
+94,Outdoor Adventure Backpack,Durable backpack for hiking or travel.,true,449,7698.95
+97,Black Bean Salsa,Spicy salsa made with black beans and tomatoes.,true,2,26917.44
+74,Whole Grain Hamburger Buns,Soft hamburger buns made with whole grains.,false,85,5641.45
+95,Compact Pop-Up Tent,Easy setup tent perfect for camping and outdoor festivals.,true,492,58528.83
+25,Buttermilk Pancakes,Fluffy pancakes with buttermilk flavor.,false,348,15952.03
+62,Two-Tone Windbreaker,"Stylish two-tone windbreaker, perfect for active days.",true,500,19861.17
+50,Organic Coconut Sugar,"A natural sweetener made from coconut sap, a healthier alternative to sugar.",false,361,53472.13
+57,Electric Heat Press Machine,Ideal for creating custom designs on t-shirts and fabrics.,true,562,12839.97
+81,Beef Stroganoff Mix,Everything you need to create a hearty beef stroganoff.,true,557,24720.3
+100,Nut Mix,A blend of mixed nuts for snacking.,true,5,17347.37
+62,Cookbook,Inspiring cookbook with healthy recipes.,true,453,1879.54
+69,Maple Syrup,Pure maple syrup for pancakes and more.,false,482,35732.83
+34,Herbed Couscous,Quick-cooking couscous flavored with herbs and spices.,false,404,13848.58
+31,Stainless Steel Travel Mug,Insulated mug to keep drinks hot on the go.,false,177,43051.25
+97,Peanut Butter Chocolate Clusters,Delicious clusters of peanuts and chocolate for a sweet treat.,false,208,36219.23
+78,Mini Waffle Maker,Compact waffle maker for perfect small waffles.,true,276,11189.33
+38,Classic Vanilla Fudge,"Creamy vanilla fudge, a sweet treat for all occasions.",true,567,3392.8
+22,Pretzel Bites,"Soft pretzel bites, perfect for dipping in mustard or cheese sauce.",false,309,7314.72
+86,Sour Cream,"Tangy sour cream, perfect for dips and toppings.",false,365,49446.25
+60,Reusable Silicone Food Storage Bags,Eco-friendly bags for storing food without plastic waste.,false,569,51341.06
+93,Peach Slices (canned),"Juicy peach slices in syrup, perfect for desserts.",false,557,11004.08
+51,Baked Mac and Cheese,Creamy macaroni and cheese baked to perfection.,true,238,30216.43
+23,Frozen Spinach,"Chopped and frozen spinach, ideal for cooking and smoothies.",false,520,47793.7
+28,Peach Fruit Cups,"Juicy peach slices in light syrup, in convenient cups.",false,49,41749.55
+56,Roasted Garlic Mashed Potatoes,Creamy mashed potatoes infused with roasted garlic flavor.,true,3,45375.29
+75,Green Smoothie Mix,A convenient powder mix combining greens and fruits for smoothies.,false,547,2423.79
+93,Portable Folding Picnic Table,Easy-to-set-up picnic table for outdoor dining.,true,354,8902.31
+95,Utility Cargo Pants,Practical cargo pants with lots of pockets for functionality.,true,103,53692.54
+81,Car Phone Mount,Adjustable phone mount for car dashboard.,false,102,37332.86
+38,LED Strip Lights with Remote Control,Color-changing LED lights for home decoration with remote.,true,304,22657.52
+62,Cat Scratching Post with Toys,Multi-level scratching post to keep your cat entertained.,true,78,3108.26
+36,Self-Watering Planter,Planter with self-watering feature for easy plant care.,true,306,53133.01
+26,Red Lentils,Nutritious and quick-cooking red lentils.,true,56,3849.75
+69,Training Soccer Ball,Durable training soccer ball for practice.,true,268,55750.79
+27,Barbecue Chicken Pizza,"Pizza topped with barbecue chicken, cheese, and red onions.",true,570,25280.88
+40,Interactive Plush Toy,"Soft, cuddly toy that interacts with children.",true,200,59066.56
+94,Pineapple Chunks (canned),Sweet pineapple chunks in syrup.,false,458,45574.22
+46,Memory Foam Mattress Topper,3-inch memory foam mattress topper for added comfort.,true,371,20241.27
+91,Suction Cup Hooks,Reusable suction cup hooks for hanging items.,true,211,26372.76
+73,Chipotle Sauce,Spicy sauce made with chipotle peppers,false,546,12282.94
+92,Pepper Jack Cheese Sticks,"A spicy, flavorful cheese stick great for snacks or lunchboxes.",true,130,3560.35
+42,Electric Screwdriver,Cordless electric screwdriver for home projects.,false,333,27653.55
+36,Cable Knit Cardigan,Cozy cable knit cardigan to layer during chilly evenings.,true,371,16185.7
+47,Animal Paw Print Soap Dispenser,Cute dispenser for bathrooms or kitchens featuring paw prints.,false,355,46407.52
+25,Toasted Coconut Granola,"Crunchy granola with toasted coconut flakes, perfect for breakfast or snacks.",true,382,24066.15
+99,Microwave Popcorn Maker,Healthier way to make popcorn in the microwave without oil.,false,150,39.91
+47,Magnetic Phone Car Mount,Strong magnetic holder for smartphones in cars.,false,582,49027.3
+46,DIY Candle Kit,Everything you need to make your own scented candles at home.,true,438,1133.79
+45,Pumpkin Spice Latte Mix,Instant mix for delicious pumpkin spice lattes at home.,true,440,6486.2
+44,Watercolor Brush Pens,Set of brush pens for colorful and creative painting.,true,333,46386.2
+49,Cauliflower Gnocchi,"Soft and pillowy gnocchi made from cauliflower, perfect with sauce.",false,275,24249.87
+45,Peanut Butter Granola,Crunchy granola full of peanut butter flavor and oats.,false,226,8004.21
+27,Faux Leather Leggings,Stylish faux leather leggings for a trendy outfit.,true,546,20657.44
+45,Chocolate Chip Energy Balls,"No-bake energy balls made with oats, chocolate chips, and honey.",true,568,58007.66
+55,Smashed Avocado with Lime,"A creamy blend of avocados and lime juice, great for spreads or dips.",true,326,10598.22
+99,Frozen Broccoli,"Nutrient-rich broccoli, easy to add to any meal.",true,504,27393.39
+76,Almond Coconut Granola,Crunchy granola with almonds and coconut.,true,212,37760.52
+32,Collapsible Water Bottle,Space-saving collapsible bottle for outdoor activities.,false,373,13917.8
+55,Sweet Cherry Tomatoes,Fresh and juicy cherry tomatoes for salads and snacking.,true,81,41266.0
+80,Lemon Sorbet,Refreshing sorbet with a zesty lemon flavor.,true,117,3905.73
+36,Honey Mustard Sauce,Creamy honey mustard sauce for dipping or dressing.,false,447,25496.49
+50,Classic Cheeseburger Mix,"All-in-one mix for easy homemade cheeseburgers, just add ground beef.",false,16,48426.46
+75,Canned Black Beans,"Delicious and hearty black beans, great for soups or salads.",true,565,16787.41
+35,Samsung Galaxy Smartwatch,Stylish smartwatch with fitness tracking and notifications.,false,248,45624.99
+85,Instant Mashed Potatoes,Quick and easy side dish with buttery flavor.,false,241,26804.44
+39,Banana Chips,"Crunchy and sweet banana chips, a great on-the-go snack.",false,145,59110.33
+33,Homestyle Beef Stew,"Hearty beef stew with vegetables, ready to heat and serve.",false,65,21254.51
+82,Car Emergency Kit,Comprehensive emergency kit for roadside assistance.,true,289,2184.61
+90,Pumpkin Ice Cream,"Seasonal pumpkin ice cream, perfect for fall.",true,412,35720.65
+27,Roasted Red Pepper Hummus,A creamy and flavorful hummus made with roasted red peppers.,true,223,32325.32
+77,Peanut Butter Cookies,Soft and chewy cookies made with creamy peanut butter.,true,339,31032.21
+40,Leather Notebook Cover,Elegant cover that protects your notebook with style.,false,418,7278.62
+92,Savory Oats,"Instant oats with a savory twist, such as herbs and spices.",true,450,56273.43
+100,Oven-Baked Potato Chips,Light and crispy baked potato chips in assorted flavors.,false,408,40078.42
+87,Wireless Gaming Mouse,Ergonomic mouse designed for gamers with high DPI.,true,435,19377.2
+49,Thyme,"Fresh thyme, perfect for seasoning dishes.",false,146,39881.14
+69,Mini Indoor Hydroponic Garden,Grow herbs indoors with this easy-to-use hydroponic garden system.,false,597,22123.47
+32,Falafel Mix,Easy-to-make falafel mix for a tasty vegetarian meal.,true,25,57171.2
+100,Coconut Curry Lentils,Lentils cooked in a coconut curry for a hearty meal.,false,298,56677.92
+63,Gluten-Free Pancake Mix,"Fluffy and delicious pancake mix, perfect for a gluten-free breakfast.",true,579,13435.56
+85,Sweet Pea Hummus,Creamy hummus made with sweet peas and tahini.,true,332,28942.21
+35,Stylish Wide-Leg Trousers,Fashionable wide-leg trousers for a chic silhouette.,false,512,46702.62
+63,Mini Food Processor,Compact food processor for quick meal prep.,true,162,59276.38
+54,Fitbit Activity Tracker,Advanced wristband that tracks daily activities and sleep.,false,175,7625.92
+31,Sweet Potato and Chickpea Bowl,A nourishing bowl of sweet potatoes and chickpeas with spices.,false,331,29626.56
+37,Memory Foam Mattress Pad,Extra layer of comfort for your mattress.,false,285,25976.31
+79,Snap-On Tupperware Set,Durable and versatile food storage containers.,false,47,28175.56
+28,Chicken Broth,"Rich and flavorful chicken broth, great for soups.",false,13,24729.81
+73,Pet Hair Removal Roller,Lint roller designed specifically for removing pet hair from furniture.,false,116,54396.04
+65,Veggie Burger Patties,Delicious veggie burger patties for grilling or frying.,true,527,2156.58
+77,Stainless Steel Mixing Bowls,Set of versatile mixing bowls for cooking.,false,65,15263.78
+84,Maxi Wrap Dress,A flowy maxi dress perfect for both casual and semi-formal occasions.,false,554,30129.33
+77,Thermostatic Shower Valve Kit,Regulate water temperature for safe and comfortable showers.,false,467,51886.44
+25,Adjustable Dog Harness,Comfortable and adjustable harness for dogs.,true,157,54326.39
+62,Puffer Winter Coat,A warm and stylish puffer coat perfect for winter weather.,false,301,1533.55
+50,Pet Reflective Vest,Safety vest for pets during nighttime walks.,true,309,55650.91
+26,Solar Power Bank,Eco-friendly power bank that charges via sunlight.,false,140,23375.38
+99,Cranberry Citrus Sauce,"A tangy sauce made with cranberries and citrus zest, perfect for turkey and chicken dishes.",false,82,44451.01
+100,Ramen Noodle Soup Cups,Instant ramen cups with flavor-packed broth.,true,377,49455.35
+49,Paprika,Rich and sweet paprika spice for seasoning.,true,49,12418.71
+68,Siphon Coffee Maker,Unique coffee brewing method for a flavorful experience.,false,566,26872.41
+62,Puzzle Mat,Foldable mat for jigsaw puzzle assembly.,false,260,58817.89
+48,Honey Wheat Pretzels,Crunchy pretzel sticks made with honey and whole wheat.,true,594,39584.53
+23,Insulated Sport Tumbler,Vacuum-insulated tumbler for beverages on the go.,true,525,24636.45
+98,Toilet Paper (12 rolls),Soft and strong toilet paper for everyday use.,false,431,2965.04
+82,Honeycrisp Apples,"Crisp and sweet Honeycrisp apples, freshly picked.",true,486,22913.4
+85,Pumpkin Waffles,Delicious waffles infused with pumpkin and spices.,false,343,51054.77
+46,Potato Wedge Seasoning,Seasoning mix for making crispy and flavorful potato wedges.,true,227,8591.81
+31,Pet Hair Removal Brush,Effective brush for removing loose hair from pets.,false,384,3240.61
+31,Foot Massager Machine,Electric foot massager for relaxation and relief.,false,261,43607.99
+66,Jigsaw Puzzle,500-piece jigsaw puzzle featuring beautiful scenery.,true,359,6103.37
+86,Personal Security Alarm Keychain,Handy keychain that emits a loud alarm for personal safety.,true,524,26039.23
+33,Wall Art,Abstract canvas print to enhance home decor.,true,117,37939.15
+45,Digital Camera,Compact digital camera with 20MP resolution.,false,562,4155.16
+87,Robot Vacuum Cleaner,Smart robotic vacuum for automatic cleaning.,false,151,59701.72
+58,Casual Long Cardigan,A cozy long cardigan designed for layering in any season.,true,198,56607.27
+67,Savory Italian Herbs,A blend of dried Italian herbs for cooking.,true,59,40060.31
+87,Veggie Burger Patties,Delicious veggie burger patties for grilling or frying.,false,256,52042.06
+22,Rustic Italian Breads,Freshly baked artisan bread with a crisp crust and soft center.,false,558,53219.35
+79,Raspberry Tart,A delicious tart filled with fresh raspberry filling.,true,78,46622.18
+51,Pet Grooming Brush,Self-cleaning grooming brush for cats and dogs.,false,349,28718.73
+73,Portable Massage Gun,Personal massager for muscle recovery.,true,217,15372.3
+75,Fitness Tracker,"Track steps, heart rate, and sleep patterns.",false,348,12774.71
+62,Mushroom Soup (canned),Creamy soup full of rich mushroom flavor.,false,396,58038.19
+43,Slim Fit Chinos,Comfortable slim fit chinos for a polished look.,false,93,48019.6
+86,Gardening Fairy Figurines,Cute fairy figurines to decorate your garden or potted plants.,false,416,21820.56
+51,Chocolate Mint Thins,Mint-flavored chocolate candies for a refreshing treat.,false,169,51752.21
+40,Tuna Fish (canned),"Wild-caught tuna in olive oil, perfect for salads.",false,384,30919.75
+80,Chipotle Black Bean Burger,"Spicy black bean burgers, great on the grill.",true,200,39450.95
+96,Egg Noodles,"Wide egg noodles, perfect for casseroles and soups.",true,566,13003.64
+62,Premium Flashlight,High-intensity flashlight with adjustable focus and brightness.,false,445,39258.72
+78,Children's Gardening Set,Fun gardening tools designed specifically for kids.,true,356,13028.22
+51,Self-Watering Planters,Planters with a self-watering feature for easy care.,false,361,17018.61
+66,Body Pillow Case,Soft and breathable pillowcase for body pillows.,true,111,3587.16
+32,Slim Wallet,RFID-blocking slim wallet for cards and cash.,true,302,16935.27
+81,Almond Butter Crunch Bar,Nutritious snack bar made with almond butter and protein.,false,598,57037.6
+47,Digital Alarm Clock,Snooze function and LED display for easy reading.,true,277,18827.79
+56,Granola Cereal,"Crunchy granola with oats, nuts, and honey.",false,471,24657.66
+70,Honey Garlic Chicken,Tender chicken coated in a sweet and savory honey garlic sauce.,false,126,39242.77
+91,Cinnamon Raisin Bagels,Soft bagels flavored with cinnamon and raisins.,true,304,44758.7
+74,Frozen Cauliflower Rice,Convenient and low-carb alternative to traditional rice.,false,515,39970.44
+90,Smartphone Stand,Adjustable stand for smartphones and tablets.,true,574,42870.98
+41,Honey mustard chicken tenders,Golden crispy chicken tenders coated with honey mustard flavor.,false,274,28152.87
+20,Greek Yogurt,Creamy Greek yogurt packed with protein and probiotics.,false,336,36731.84
+77,Brown Sugar,"Raw brown sugar, perfect for baking or sweetening drinks.",false,202,25925.61
+100,Casual Cropped Sweater,A trendy cropped sweater perfect for a casual look.,true,298,27302.97
+51,Organic Vanilla Bean Ice Cream,"Creamy ice cream made with real vanilla beans, perfect for desserts.",true,321,39008.72
+96,Kids' Educational Tablet,Learning tablet with kid-friendly educational apps.,true,173,19984.2
+48,Garden Tool Set with Carrying Bag,Complete set for garden care with a handy carrying bag.,false,419,12667.29
+87,Balsamic Vinegar,"Rich and tangy balsamic vinegar, perfect for dressings.",true,279,9211.76
+84,Smart Plant Monitor,Device that tracks soil moisture and provides care tips.,true,407,18014.89
+23,Chocolate Chip Muffins,Fresh baked chocolate chip muffins for breakfast.,false,387,41726.58
+73,Wireless HDMI Receiver,Stream HD video wirelessly from devices to TV.,false,29,16003.13
+100,Buffalo Chicken Wraps,Savory wraps with buffalo chicken and fresh vegetables.,false,247,9431.23
+86,Ceramic Bakeware Set,Durable ceramic bakeware for casseroles and desserts.,true,586,38842.08
+100,LED Desk Lamp,Dimmable LED desk lamp with USB charging port.,false,510,51681.07
+51,Beef Stroganoff Meal Kit,Complete meal kit with everything needed to make beef stroganoff in under 30 minutes.,true,230,44241.34
+42,Beef Jerky,"Savory, protein-rich beef jerky for on-the-go snacking.",false,569,53389.75
+59,Car Phone Mount,Adjustable phone mount for car dashboard.,true,447,53078.2
+91,Multi-Function Meat Tenderizer,Kitchen tool for tenderizing meat to enhance flavors.,true,520,13303.29
+97,Quinoa and Kale Salad Kit,"Ready-to-eat salad with quinoa and kale, drizzled with vinaigrette.",false,185,18444.11
+49,Dried Mango Slices,"Sweet and chewy dried mango slices, perfect for snacking.",false,327,54307.04
+84,Garden Tool Belt,Handy belt for carrying garden tools while working.,false,397,56248.52
+20,Instant Mashed Potatoes,Quick and easy side dish with buttery flavor.,false,57,31193.32
+80,Granola Cereal,"Crunchy granola with oats, nuts, and honey.",false,387,4291.37
+54,Artisan Cornbread Mix,"Mix for homemade cornbread, just add water and bake for a delicious side.",true,263,11274.83
+84,Wine Decanter,Elegant glass decanter for aerating wine.,false,89,8464.95
+95,Digital Kitchen Timer,Easy-to-read digital kitchen timer with alarms.,true,191,36480.36
+48,Smart Light Switch,Control lights remotely with this smart switch.,false,56,27319.41
+74,Coconut Macaroons,"Chewy cookies made with coconut, perfect for sweet cravings.",true,445,53647.53
+39,Vanilla Pudding Mix,Instant mix for creamy vanilla pudding.,true,399,27993.72
+21,Smart Doorbell,Wi-Fi enabled doorbell with HD camera and two-way audio.,true,538,19695.48
+80,Tactical Backpack,Durable and versatile backpack for outdoor and travel use.,false,527,36794.63
+57,Travel Shoe Bags Set,Set of breathable bags for organizing shoes while traveling.,false,163,53219.21
+80,BBQ Sauce,"A smoky barbecue sauce, ideal for grilling and dipping.",true,223,52494.68
+56,Fall-Themed Table Runner,Decorative table runner perfect for autumn gatherings.,false,397,17389.21
+59,Compact Pop-Up Tent,Easy setup tent perfect for camping and outdoor festivals.,true,197,23864.81
+40,Raspberry Vanilla Greek Yogurt,Creamy Greek yogurt infused with raspberry and vanilla flavors.,true,84,42675.74
+53,Handcrafted Wooden Jewelry Box,Beautifully crafted jewelry box with compartments for storage.,true,19,20158.9
+54,Coconut Macaroons,"Chewy cookies made with coconut, perfect for sweet cravings.",true,139,37815.44
+60,Reclining Camping Chair,Foldable reclining camping chair with cup holder.,false,326,43614.14
+25,Classic White T-Shirt,A timeless wardrobe staple crafted from soft cotton with a perfect fit.,true,156,2863.24
+76,Photo Album,Classic leather photo album for keepsakes.,false,137,17184.5
+40,Relaxed Fit Henley Shirt,"A comfortable henley shirt made of soft cotton, perfect for casual outings.",true,486,11960.25
+89,Slim Fit Chinos,Comfortable slim fit chinos for a polished look.,false,256,45806.67
+44,Beef Taco Skillet,A convenient meal kit for making a delicious beef taco skillet at home.,true,136,41848.6
+98,Car Sunshade,Windshield sunshade for car interior protection.,true,123,52877.41
+57,Juice Extractor,Efficient juicer for fresh fruit and vegetable juices.,false,492,5537.42
+60,Electric Toothbrush,Rechargeable electric toothbrush with smart timer.,false,500,25392.54
+43,Balsamic Vinegar,"Rich and tangy balsamic vinegar, perfect for dressings.",false,57,42327.83
+52,Balsamic Salad Dressing,"Tangy and sweet balsamic dressing, perfect for salads.",true,161,15337.93
+21,Adjustable Garden Rake,Heavy-duty rake with adjustable width for different gardening needs.,true,315,48966.57
+27,Classic White T-Shirt,A timeless wardrobe staple crafted from soft cotton with a perfect fit.,false,193,34829.26
+50,Creamy Spinach Dip,"Deliciously creamy spinach dip, perfect for parties.",false,25,30709.46
+45,Faux Fur Throw Blanket,Cozy faux fur blanket to add warmth and style to your home.,true,546,48647.72
+60,Sunglasses Case,Hard-shell case for protecting sunglasses.,true,481,17236.73
+22,Wire Shelving Unit,Adjustable shelving unit for home or garage storage.,false,574,44456.55
+71,Portable Bluetooth Speaker,Compact Bluetooth speaker with rich sound quality.,false,534,35829.17
+25,Savory Italian Herbs,A blend of dried Italian herbs for cooking.,true,155,1799.44
+39,Miso Soup Mix,"Instant miso soup mix, just add hot water for a warm meal.",false,560,39238.39
+74,Foam Roller for Muscle Recovery,Use this foam roller for effective post-workout recovery.,true,527,42668.12
+97,Portable Pet Stroller,Convenient stroller for pets to enjoy outdoor walks.,false,232,52846.82
+44,Frozen Fruit Medley,"A mix of strawberries, blueberries, and raspberries, perfect for smoothies.",true,255,32259.39
+71,Frozen Chicken Nuggets,Crispy chicken nuggets for quick meals.,true,497,17798.39
+88,Puffer Winter Coat,A warm and stylish puffer coat perfect for winter weather.,false,64,52260.14
+90,Kale Salad with Lemon Dressing,"Fresh kale salad with a zesty lemon dressing, great as a side dish.",false,248,9447.99
+81,Essential Oil Diffuser,Ultrasonic diffuser that helps create a calming atmosphere.,true,554,14882.62
+73,Organic Coconut Sugar,"A natural sweetener made from coconut sap, a healthier alternative to sugar.",false,193,41371.15
+22,Trendy Bomber Jacket,A fashion-forward bomber jacket to elevate your casual looks.,false,391,16096.72
+82,Wireless Printer,Compact wireless printer for home use.,true,180,984.96
+34,Insulated Wine Tote,Stylish tote to keep wine bottles chilled while traveling.,true,381,44670.41
+91,Outdoor Camping Lantern,Rechargeable LED lantern ideal for camping and outdoor activities.,true,182,40817.28
+80,Herbal Tea Set,Assorted herbal tea bags for relaxation and wellness.,false,363,9119.42
+21,Nail Polish Set,Assorted nail polish set for vibrant nails.,true,269,30684.93
+64,Herb Seasoned Rice,A flavorful rice side dish seasoned with herbs and spices.,true,292,5546.76
+23,Herbal Tea Variety Pack,"Assorted herbal teas, perfect for a warm and relaxing drink.",false,341,46451.82
+55,Robot Vacuum Cleaner,Smart robotic vacuum for automatic cleaning.,false,311,4777.86
+89,Kids' Activity Book,Fun book filled with puzzles and games for kids.,false,121,56437.25
+44,LED Strip Lights,Colorful LED strip lights for home decoration.,false,493,1273.57
+92,Beef Jerky,"Savory, protein-rich beef jerky for on-the-go snacking.",true,208,3494.18
+80,Savory Rice Cakes,"Lightly salted rice cakes, perfect for a healthy snack.",false,254,22151.66
+63,Portable Bluetooth Headphones,Wireless headphones with noise-canceling features.,true,72,59135.71
+54,Weighted Jump Rope with Counter,Jump rope that counts your jumps for tracking workouts.,false,276,18687.19
+28,Warm Knit Beanie,Stay warm with this stylish knit beanie in various colors.,false,342,50720.21
+28,Car Phone Mount,Adjustable phone mount for car dashboard.,true,44,51607.62
+53,Pumpkin Pancake Mix,Easy-to-make pancake mix with pumpkin spice flavor.,false,149,59288.29
+61,Organic Brown Sugar,Natural sweetener for baking and cooking.,true,160,10099.86
+28,Cranberry Almond Granola,"Crunchy granola with oats, almonds, and dried cranberries.",true,263,44696.73
+20,Caraway Rye Bread,Artisan bread with caraway seeds for added flavor.,true,397,39449.4
+72,Cinnamon Ice Cream,"Creamy ice cream with a warm cinnamon flavor, perfect for dessert.",false,91,33458.93
+36,Car Seat Organizer,Storage solutions for keeping your car tidy and organized.,false,235,59317.47
+32,Fruit and Nut Energy Bites,Natural energy bites packed with fruits and nuts for a perfect snack.,false,256,2515.43
+77,Bamboo Utensil Set,Sustainable bamboo utensils for cooking and serving.,true,468,17686.44
+22,Pretzel Bites,"Soft pretzel bites, perfect for dipping in mustard or cheese sauce.",true,227,21426.48
+82,Classic Caesar Dressing,Rich and creamy Caesar dressing for salads and wraps.,true,276,14566.12
+43,Electric Griddle,Large electric griddle for family meals.,true,137,56300.31
+84,Athletic Compression Tights,High-performance compression tights designed for optimal support and comfort.,false,56,16355.56
+96,Applewood Smoked Bacon,Delicious bacon with a rich applewood smoked flavor.,false,94,38265.17
+28,Baking Soda,Essential ingredient for baking and cooking.,false,302,53252.67
+85,Bluetooth Shower Speaker,Water-resistant Bluetooth speaker for showers.,true,404,12596.92
+87,Lemon Pepper Seasoning,A zesty seasoning for meats and vegetables,false,462,89.81
+94,Portable Massage Table,Folding massage table for professional or home use.,false,428,6727.14
+63,Comfort Flats,Everyday flats that combine comfort and style.,true,27,55424.27
+58,LED Flashlight,Bright LED flashlight with adjustable beam.,false,40,56897.19
+76,Frozen Mixed Vegetables,"A mix of carrots, peas, and corn, easy to stir-fry.",true,263,52291.06
+91,Bamboo Cutting Board,Eco-friendly bamboo cutting board for food prep.,false,142,55845.46
+75,Artisan Cornbread Mix,"Mix for homemade cornbread, just add water and bake for a delicious side.",false,532,56891.8
+66,Organic Italian Seasoning,A blend of dried herbs commonly used in Italian cooking.,false,214,34275.15
+97,Puffer Winter Coat,A warm and stylish puffer coat perfect for winter weather.,true,159,50883.4
+24,Mediterranean Chickpea Bowl,"Chickpeas served with olives, feta, and hummus, a healthy meal.",false,336,49529.88
+34,Walnut Halves,Fresh walnut halves for baking or snacking.,true,292,52162.55
+49,Honey Ginger Tea,"Soothing tea with honey and ginger, great for relaxation.",false,249,7951.85
+21,Whole Grain Cereal,"Healthy whole grain cereal, great for breakfast.",true,107,37953.04
+20,Snack Container Set,Stackable containers for organizing snacks and treats.,true,290,4613.58
+47,Organic Honeycrisp Apples,"Sweet and crisp apples, perfect for snacking.",false,423,10981.46
+56,Chilli Lime Corn on the Cob,Corn on the cob seasoned with chili and lime for a spicy kick.,true,419,6440.75
+73,Throw Pillow Covers,Set of decorative pillow covers to enhance your home decor.,false,92,52187.02
+49,Pet Activity Tracker,GPS collar that monitors your pet's location and activity level.,false,471,27919.31
+76,Mini Projector for Smartphones,Compact and portable projector for watching videos anywhere.,false,477,6935.24
+87,Mango Chunks,Frozen mango chunks for smoothies or snacking.,true,557,35448.18
+57,Comfortable Bed Pillow,Supportive pillow designed for a good night's sleep.,false,360,55115.9
+95,Body Wash,Moisturizing body wash with natural ingredients.,true,191,43160.43
+54,Grilled Vegetable Medley,"A mix of grilled vegetables, ready to heat for quick side dishes.",false,253,48509.52
+49,Sports Bottle,BPA-free sports bottle with flip-top lid.,false,416,1614.2
+57,Berries Medley,"A mix of fresh raspberries, blueberries, and blackberries.",false,134,39388.3
+92,Organic Coconut Flour,Finely ground flour from dried coconut meat.,true,198,51249.74
+96,Chocolate Avocado Pudding,Rich and creamy pudding made with ripe avocados and cocoa.,true,251,3734.96
+29,Kids' Educational Tablet,Learning tablet with kid-friendly educational apps.,false,111,58670.35
+63,Coconut Flakes,Unsweetened coconut flakes for baking and topping.,false,411,10740.2
+39,Aged White Cheddar Popcorn,Light and fluffy popcorn coated in aged white cheddar.,false,108,56563.69
+48,Coconut Cream Pie Yogurt,"Yogurt with the flavors of coconut cream pie, nice and indulgent.",false,261,55332.47
+51,LED Desk Lamp with USB Charging,Stylish desk lamp featuring a USB charging port.,true,393,45930.06
+37,Balsamic Fig Dressing,"A sweet and tangy dressing made with figs and balsamic vinegar, great on salads.",true,420,18675.03
+33,DIY Candle Kit,Everything you need to make your own scented candles at home.,false,23,5222.31
+74,Roasted Garlic Butter,A flavorful spread made with roasted garlic and creamy butter.,true,293,12119.3
+89,Beef Sirloin Steak,"Juicy and tender beef sirloin steak, grass-fed.",true,345,53730.4
+81,Pasta Primavera,Frozen vegetable primavera for quick meals.,false,100,5445.62
+43,Eggs (dozen),"Farm fresh eggs, essential for breakfast.",false,388,35376.04
+71,Bird Feeder,Hanging bird feeder for backyard birds.,true,211,12030.28
+58,Noise-Canceling Earbuds,Wireless earbuds designed for immersive sound experience.,true,307,49634.43
+23,Cauliflower Crust Pizza,A gluten-free pizza crust made from cauliflower.,true,595,56412.37
+65,First Aid Kit,Comprehensive first aid kit for emergency situations.,true,387,58698.25
+71,Vegan Cheese,Dairy-free cheese alternative for your favorite dishes.,false,169,6888.85
+89,Chili Garlic Sauce,"Spicy sauce made with chili peppers and garlic, great for stir-frying.",false,329,23093.07
+24,Children's Gardening Set,Fun gardening tools designed specifically for kids.,false,52,12689.66
+94,Rustic Italian Breads,Freshly baked artisan bread with a crisp crust and soft center.,false,562,22113.47
+100,Lightweight Travel Backpack,Compact and portable backpack for day trips and travel.,true,230,24210.11
+50,Teriyaki Salmon Fillets,"Frozen salmon fillets marinated in teriyaki sauce, ready to grill or bake.",false,343,12636.22
+50,Pet Hair Vacuum Attachment,Special attachment for vacuum cleaners to remove pet hair easily.,true,169,3434.25
+88,Caramelized Onion Dip,"Creamy dip made with caramelized onions, perfect for chips or veggies.",false,365,27960.28
+21,Portable Hammock,Lightweight hammock for easy setup anywhere.,true,198,38451.44
+33,Organic Lentil Soup,A hearty soup made with organic lentils and vegetables.,false,572,5055.65
+82,Breezy Off-The-Shoulder Top,A light and breezy top ideal for warm days.,false,511,9293.53
+77,Wrap Jumpsuit,Chic wrap jumpsuit that flatters the body and is perfect for any occasion.,true,9,18920.96
+55,Outdoor Sports Backpack,Durable backpack designed for hiking and outdoor excursions.,false,13,31514.04
+65,Chocolate Protein Powder,Rich chocolate protein powder for smoothies and baking.,false,415,4136.04
+93,Infrared Thermometer,Non-contact thermometer for checking temperatures instantly.,false,413,35611.15
+22,Artisan Cornbread Mix,"Mix for homemade cornbread, just add water and bake for a delicious side.",true,524,50659.28
+82,Vegetable Fried Rice Mix,A quick and easy fried rice mix with colorful veggies and savory seasoning.,false,530,37608.43
+72,Peanut Butter Granola,Crunchy granola full of peanut butter flavor and oats.,false,372,22840.23
+28,Artisan Bread,"Freshly baked artisan bread, perfect for sandwiches or toasting.",true,528,6065.95
+68,Oatmeal Raisin Cookies,Delicious cookies packed with oats and raisins.,true,569,43353.49
+100,Jasmine Rice,"Fragrant jasmine rice, perfect as a side dish.",false,571,58730.57
+41,Dog Frisbee Toy,Durable and soft frisbee designed for dogs to play with.,true,239,45180.78
+30,Sweet Cherry Tomatoes,Fresh and juicy cherry tomatoes for salads and snacking.,false,232,43710.95
+36,Pumpkin Waffles,Delicious waffles infused with pumpkin and spices.,false,81,10287.37
+43,Fashionable Fanny Pack,"A trendy fanny pack, perfect for hands-free outings.",true,273,56166.55
+92,Silicone Baking Mat,Non-stick baking mat for easy cooking and cleanup.,false,255,43145.93
+60,Chipotle Lime Salsa,Spicy salsa with chipotle and lime for a zesty kick.,false,24,44169.31
+40,Cordless Water Flosser,Rechargeable water flosser for dental hygiene.,false,60,40112.51
+45,Portable Electric Fan,Compact fan for personal cooling at work or home.,false,430,4649.04
+92,Electric Hot Water Dispenser,Instant hot water dispenser for tea and cooking.,true,341,7040.26
+46,Electric Rice Cooker,Multi-function rice cooker for all types of rice recipes.,false,415,32362.53
+86,Maple Chipotle Glaze,A sweet and spicy glaze that's perfect for grilling or marinades.,false,386,43158.79
+62,Board Game Storage,Organize your board games with this storage bin.,false,55,11804.66
+32,Safety Goggles,Protective goggles for DIY and construction work.,false,359,32678.44
+49,Over-the-Door Hooks,Convenient hooks that utilize door space for hanging items.,false,29,53637.94
+66,Portable Electric Fan,Compact fan for personal cooling at work or home.,true,413,21578.84
+85,Basil Lemonade,Refreshing basil-infused lemonade for a cool drink.,true,423,26663.68
+62,Decorative LED Neon Sign,"Bright, vibrant sign to add flair to any space.",false,114,22687.78
+70,LED Desk Lamp,Dimmable LED desk lamp with USB charging port.,false,189,31666.22
+24,Peanut Butter Chocolate Clusters,Delicious clusters of peanuts and chocolate for a sweet treat.,false,154,31572.43
+82,Maple Oatmeal,Delicious maple-flavored oatmeal for a quick breakfast.,false,475,3620.62
+33,Honey BBQ Riblets,"Tender riblets coated in a honey barbecue glaze, perfect for grilling or baking.",true,216,37292.31
+49,Samsung Galaxy Smartwatch,Stylish smartwatch with fitness tracking and notifications.,false,367,4547.83
+67,Cotton Basic Tank,"Essential cotton tank top, perfect for layering.",true,292,36481.74
+63,Decorative Wall Tapestry,Colorful tapestry to add charm to any room.,true,569,3973.59
+97,Striped Long Sleeve Shirt,A casual striped long sleeve shirt that's perfect for layering.,false,362,2428.26
+74,Garden Vegetable Chips,"Crispy chips made from assorted garden vegetables, lightly salted.",true,85,19542.53
+72,Smart Light Bulbs,Color-changing smart LED bulbs compatible with Alexa.,false,475,49848.93
+65,Puzzle,Challenging 1000-piece jigsaw puzzle for all ages.,true,579,4512.89
+78,Whole Wheat Pita Bread,"Soft and fluffy whole wheat pita bread, great for wraps.",false,188,44683.59
+46,Infrared Thermometer Gun,Non-contact thermometer for quick and easy temperature readings.,false,132,20987.34
+44,Maple Pecan Granola,"Crunchy granola with maple syrup and pecans, great for breakfast or snacking.",true,493,15648.14
+80,Rechargeable Laptop Battery Pack,Portable battery pack to charge laptops while on the move.,false,570,58101.31
+71,Crispy Chickpeas,Roasted chickpeas seasoned for a crunchy snack.,true,346,56525.02
+69,Heat-Resistant Silicone Mat,Protects surfaces while baking or cooking with hot items.,true,596,26116.61
+61,Travel Pillow,Memory foam travel pillow for neck support.,true,49,263.56
+53,Organic Coconut Yogurt,Dairy-free yogurt made from coconut milk.,false,346,54180.11
+51,Coffee Subscription Service,Monthly subscription for freshly roasted coffee delivered to your door.,true,490,56877.16
+27,Chopping Board,Reversible bamboo chopping board for food prep.,false,110,37706.58
+100,Savory Breakfast Sausage,"Frozen sausage patties made with herbs and spices, perfect for breakfast sandwiches.",true,338,1664.52
+98,Rustic Wooden Picture Frame,Charming frame to showcase your favorite photos.,false,419,18597.32
+78,Applewood Smoked Bacon,Delicious bacon with a rich applewood smoked flavor.,true,46,31147.96
+72,Kettle Corn Popcorn,"Sweet and salty kettle corn, perfect for snacking.",false,361,17075.84
+38,Collapsible Folding Chair,Lightweight and portable chair for camping or events.,false,488,44642.47
+26,Organic Italian Seasoning,A blend of dried herbs commonly used in Italian cooking.,true,112,46526.16
+23,Asian Noodle Salad Kit,A pre-packaged salad kit with noodles and Asian-style dressing.,true,361,25750.62
+62,Desk Lamp with USB Port,Modern desk lamp that features a built-in USB charging port.,false,74,36073.93
+89,Cranberry Almond Biscotti,Crispy and delicious biscotti flavored with cranberry and almond.,true,355,31580.59
+60,Cold Brew Coffee Maker,Brews coffee with a smooth flavor without bitterness.,false,95,28796.18
+87,Flavored Popcorn Mix,Popcorn tossed with sweet or savory flavors for a tasty snack.,true,586,58340.22
+62,Antique Style Clock,Nostalgic clock that adds charm to any room.,false,3,14395.36
+97,Vegan Mac & Cheese,Creamy vegan mac and cheese made with cashew cheese.,true,431,25421.86
+58,Travel Jewelry Case,Portable case to organize and protect jewelry on trips.,true,380,6130.67
+38,Vegan Cheese,Dairy-free cheese alternative for your favorite dishes.,false,584,31246.85
+31,Cheddar & Bacon Potato Skins,Gourmet potato skins loaded with cheddar cheese and bacon.,true,486,13056.62
+95,Wooden Puzzle Game,Classic wooden puzzle game for kids and adults.,false,426,35728.95
+49,Cookbook,Inspiring cookbook with healthy recipes.,false,72,31044.84
+85,Sliced Provolone Cheese,Mild cheese great for sandwiches.,true,521,18637.65
+34,Vegetable Fried Rice,Quick and easy fried rice mixed with vegetables and soy sauce.,true,100,21884.2
+26,Pumpkin Puree,"Canned pumpkin puree, perfect for pies and soups.",false,316,31556.68
+100,Inflatable Pool Float,Fun inflatable float for lounging in the pool or beach.,false,129,8983.22
+28,Elderberry Syrup Kit,DIY kit to make your own elderberry syrup.,true,327,41317.57
+80,Chili Beans (canned),"Canned beans with chili sauce, perfect for chili dishes.",true,475,14811.83
+55,Indian Curry Sauce,Authentic Indian curry sauce for quick meals.,false,409,56031.26
+63,Mixed Nuts,"A blend of assorted nuts, perfect for snacking or adding to recipes.",true,10,49591.75
+70,Deep Tissue Massage Gun,Rechargeable massage gun for relieving muscle soreness.,false,306,33336.07
+47,Fashionable Fanny Pack,"A trendy fanny pack, perfect for hands-free outings.",true,337,8133.43
+98,Puzzle Game Set,Challenging puzzle game set for family entertainment.,false,483,1361.15
+68,Smart WiFi Plug,Control appliances remotely using your smartphone.,false,506,32752.42
+40,Whole Wheat Pita Bread,"Soft and fluffy whole wheat pita bread, great for wraps.",true,90,38792.62
+89,Electric Stool Heater,Heated stool cover for extra comfort during winter.,true,428,50279.58
+57,Pet Water Bottle,Portable water bottle for pets when traveling.,false,551,57760.08
+34,Chicken Fajita Kit,All ingredients included for delicious chicken fajitas.,false,255,44033.29
+39,Sushi Rice,Short-grain sushi rice for perfect rolls.,false,444,49865.24
+53,Compact Pop-Up Tent,Easy setup tent perfect for camping and outdoor festivals.,false,528,13770.14
+28,Cat Tree,Multi-level cat tree for climbing and scratching.,false,478,7541.73
+20,Wire Shelving Unit,Adjustable shelving unit for home or garage storage.,true,262,4760.01
+71,Decorative Throw Pillows,Set of stylish throw pillows for home decor.,false,98,31309.66
+37,Wireless Charger,Qi-certified wireless charger for fast charging.,true,575,11860.98
+82,Art Supplies Organizer,Storage organizer for art supplies and tools.,false,99,46534.72
+76,Car Vacuum,Portable car vacuum cleaner with strong suction.,true,14,19223.6
+68,Buffalo Wing Sauce,Spicy sauce perfect for chicken wings and dipping.,true,492,16533.35
+39,Aged White Cheddar Popcorn,Light and fluffy popcorn coated in aged white cheddar.,false,473,34802.71
+59,Quinoa,"Protein-rich quinoa, a great alternative to rice.",false,121,6352.38
+28,Electric Milk Frother,Handheld frother for creating frothed milk for coffee.,false,161,34779.7
+34,Honey Sriracha Chicken Bites,"Frozen chicken bites coated in a honey sriracha glaze, spicy and sweet.",false,18,3450.42
+30,Cold Brew Coffee Maker,Brews coffee with a smooth flavor without bitterness.,false,501,21391.47
+56,Wall Decals for Kids,Fun and colorful wall decals for children's rooms.,false,344,58298.65
+56,Coconut Milk,Rich coconut milk for curries and desserts.,false,310,58660.01
+84,Coffee Grinder,Burr coffee grinder for fresh ground coffee.,false,584,14588.71
+33,Elderberry Syrup,Natural elderberry syrup to boost immunity.,true,100,1331.58
+52,Sea Salt Tortilla Chips,"Crunchy tortilla chips with a hint of sea salt, great with dips.",true,212,12101.39
+37,Sliced Turkey Breast,"Oven-roasted sliced turkey, perfect for sandwiches.",true,370,54303.97
+55,Fruit Infuser Water Bottle,Water bottle designed to infuse flavors from fruits.,true,417,36202.34
+62,Fettuccine Alfredo Dinner Kit,Easy meal kit for creamy fettuccine Alfredo.,false,261,23832.74
+25,Terry Cloth Robe,"Soft and comfortable robe, perfect for lounging at home.",true,589,20778.32
+33,Frozen Chicken Nuggets,Crispy chicken nuggets for quick meals.,false,432,50644.49
+67,Vegetable and Cheese Quesadillas,Flour tortilla filled with cheese and a medley of vegetables.,true,4,17336.63
+82,Vegetable Pizza Rolls,"Frozen pizza rolls filled with vegetables and cheese, perfect for snacks.",true,486,30577.56
+70,Pet Hair Remover,Effective roller for removing pet hair from furniture.,false,253,59313.53
+55,Sun Protection Clothing,UV-blocking clothing for outdoor activities.,false,562,50836.98
+87,Mediterranean Chickpea Bowl,"Chickpeas served with olives, feta, and hummus, a healthy meal.",true,106,17961.51
+32,Water-Resistant Bluetooth Speaker,Durable speaker designed for outdoor use with water resistance.,true,94,23959.0
+38,Portable Laptop Table,Foldable table for working with laptops anywhere.,true,324,6395.38
+40,Pressure Washer Accessories Kit,Essential attachments for pressure washing.,false,467,21638.99
+32,Water-Resistant Bluetooth Speaker,Durable speaker designed for outdoor use with water resistance.,true,355,30549.33
+51,Travel Eye Mask with Ear Plugs,Comfortable eye mask that includes noise-canceling ear plugs.,true,145,55692.59
+80,Chocolate Chip Cookie Mix,Everything you need to bake delicious chocolate chip cookies.,false,341,18989.7
+50,Overnight Hiking Backpack,Durable backpack with ample storage for outdoor adventures.,false,80,3047.5
+56,Electric Screwdriver,Cordless electric screwdriver for home projects.,false,438,7144.63
+30,Athletic Compression Tights,High-performance compression tights designed for optimal support and comfort.,true,209,29072.06
+21,Kale Salad Kit,"Ready-to-eat salad with kale, lemon, and cheese.",false,88,622.36
+44,Gluten-Free Biscuits,Fluffy biscuits made without gluten,true,545,8619.39
+37,Window A/C Unit,Energy-efficient window air conditioner for cooling.,false,580,53820.95
+49,Kombucha Drink,"Refreshing and tangy fermented tea, available in various flavors.",true,34,35310.41
+26,Garlic Herb Cream Cheese,Spreadable cream cheese blended with garlic and herbs.,true,43,21504.42
+26,Chocolate Mint Thins,Mint-flavored chocolate candies for a refreshing treat.,false,238,27723.83
+36,Car Windshield Sun Shade,Protects car interior from sun damage and heat.,false,207,25443.95
+96,Lemon Herb Grilled Chicken,Tender grilled chicken marinated in lemon herbs.,true,50,39505.97
+42,Honey Roasted Almonds,Sweet and crunchy roasted almonds.,true,113,25254.99
+63,Buffalo Sauce,Spicy buffalo sauce ideal for wings or dipping.,false,535,48608.93
+48,Falafel Mix,Easy-to-make falafel mix for a tasty vegetarian meal.,true,548,39170.87
+86,Italian Pasta,"Authentic Italian pasta, perfect for a classic meal.",false,316,39779.68
+74,Mixed Berry Smoothie Pack,"Frozen berries blend perfect for smoothies, just add yogurt.",false,292,2571.63
+62,Roasted Vegetable Medley,A mix of frozen roasted vegetables for an easy side dish.,false,481,37771.23
+34,Roasted Red Pepper Sauce,Savory sauce perfect for pasta or dipping.,true,214,23624.1
+31,Carrot Ginger Soup,"Smooth soup made from carrots and ginger, great for cold days.",false,214,13784.61
+83,Puffed Rice Cake,Low-calorie rice cake for snacks.,true,448,20104.1
+86,Plant Watering Spikes,Automatic watering devices for potted plants.,true,47,30010.41
+72,Garden Hose Reel,Compact hose reel to keep your garden tidy.,false,429,51460.4
+35,Fitness Activity Journal,Journal to record workouts and nutrition.,false,442,8351.83
+61,Vegan Caesar Dressing,"Creamy vegan dressing made with cashews, perfect for salads.",true,371,45523.99
+58,Chocolate Coconut Granola,"Crunchy granola with chocolate and coconut, great for breakfast or snacks.",true,400,11547.57
+33,Caramelized Onion Dip Mix,A mix to create a delicious onion dip for parties or snacking.,true,270,3585.59
+29,Garlic Herb Seasoning,A blend of herbs and garlic for seasoning meats and vegetables.,true,456,36651.69
+86,Natural Fruit Snacks,"Healthy fruit snacks, made with real fruit.",false,189,41155.54
+62,Cucumber Lime Sparkling Water,Refreshing sparkling water with cucumber and lime flavor.,false,68,14618.27
+74,Roasted Vegetable Medley,A mix of frozen roasted vegetables for an easy side dish.,true,62,15484.38
+89,Bamboo Toothbrush Holder,Eco-friendly bamboo holder for toothbrushes.,false,390,21514.63
+88,Balsamic Glazed Brussels Sprouts,Roasted Brussels sprouts drizzled with balsamic glaze.,false,352,23844.67
+94,Asian Salad Mix,Fresh greens and veggies for a quick Asian-inspired salad.,true,308,7482.61
+56,Weighted Blanket,Therapeutic weighted blanket for better sleep.,true,302,34198.1
+27,Cinnamon Sugar Donuts,Delicious mini donuts dusted with cinnamon sugar.,false,154,18450.14
+59,Banana Peanut Butter Smoothie,Frozen smoothie mix with bananas and peanut butter for a quick drink.,true,451,20586.71
+52,Herb Seasoned Couscous,"Fluffy couscous seasoned with a blend of herbs, perfect as a side dish.",false,558,47059.45
+99,Outdoor Mosquito Repellent Lantern,Lantern that repels mosquitoes while providing light.,false,3,40694.89
+61,Instant Mashed Potatoes,Quick and easy side dish with buttery flavor.,false,402,38109.07
+45,Eco-Friendly Beeswax Wraps,"Reusable wraps for food storage, replacing plastic wraps.",true,386,37173.43
+32,Pasta Sauce Mix,Just add water for a quick pasta sauce.,true,532,13884.18
+67,Organic Coconut Flakes,Unsweetened coconut flakes for baking and snacking.,true,1,52830.23
+58,Coconut Lime Rice,"Flavorful rice mixed with coconut and lime, a tropical side dish.",true,278,41838.68
+43,Ice Cream,"Rich and creamy ice cream, available in various flavors.",false,192,47518.39
+46,Knitted Infinity Scarf,A warm knitted scarf to keep you cozy in winter.,true,441,13006.39
+88,Organic Green Tea,Delicate green tea leaves for a refreshing beverage.,false,249,27643.23
+60,Ceramic Planter Set,Set of decorative ceramic planters for indoor plants.,true,282,7260.01
+46,Wooden Kitchen Utensil Set,Eco-friendly utensil set made from natural wood.,true,455,27681.03
+54,Breathable Face Mask Set,Comfortable and reusable face masks in different styles.,true,247,33667.91
+85,Mechanical Pencil Set,"Precision pencils for drawing, sketching, and writing.",true,225,20932.39
+47,Mini Food Processor,Compact food processor for quick meal prep.,true,367,3716.52
+71,Italian Sausage Links,Savory sausage links seasoned with Italian spices.,false,88,41687.01
+21,Car Trash Can,Compact trash can for keeping your car clean.,false,281,1107.98
+76,Basic V-Neck T-Shirt,A staple v-neck t-shirt that pairs well with anything.,false,228,57775.7
+75,Lemon Herb Chicken,Marinated chicken grilled with lemon and herbs.,true,50,59309.1
+86,Compressed Towel Tablets,"Compact towels that expand when wet, ideal for travel.",true,408,22476.41
+43,Reusable Snack Bags,Eco-friendly reusable bags for snacks.,true,381,48477.86
+60,Dog Frisbee Toy,Durable and soft frisbee designed for dogs to play with.,false,371,25480.26
+65,Spiralizer,Vegetable spiralizer for healthy meals.,true,81,44255.68
+22,Personal Blender with Travel Lid,Blender designed for smoothies and shakes on the go.,false,157,52066.33
+56,Essential Oil Diffuser,Ultrasonic diffuser that helps create a calming atmosphere.,false,418,7479.53
+28,Herbal Tea Set,Assorted herbal tea bags for relaxation and wellness.,true,252,4427.51
+68,Dark Chocolate Covered Pretzels,Crunchy pretzels dipped in rich dark chocolate.,false,213,57391.13
+65,Aeropress Coffee Maker,Portable coffee maker for rich brews on the go.,true,377,48976.25
+87,Luxury Rolling Makeup Case,Stylish and spacious case for makeup and beauty products.,true,571,27645.53
+58,Peanut Butter Chocolate Clusters,Delicious clusters of peanuts and chocolate for a sweet treat.,true,472,13689.79
+40,Car Escape Tool,Multi-functional tool for emergency situations in the car.,false,359,6946.45
+56,Non-Stick Crepe Pan,Perfectly designed pan for making crepes and pancakes.,false,102,27321.57
+30,Pet Tracking Collar,GPS pet collar that helps locate your pet via smartphone app.,true,203,48773.87
+52,Ground Cinnamon,Freshly ground cinnamon spice for baking or seasoning.,true,292,32704.95
+87,Collapsible Pet Dog Bowl,Travel-friendly dog bowl that is collapsible for easy storage.,true,19,47308.93
+58,Banana Nut Muffins,"Moist, fluffy muffins packed with bananas and walnuts for a delightful breakfast or snack.",false,521,59511.91
+47,Window A/C Unit,Energy-efficient window air conditioner for cooling.,true,410,3997.08
+75,Savory Snack Mix,"A mix of nuts, pretzels, and crackers, seasoned just right for snacking.",false,425,39431.18
+97,Pet Food Storage Container,Airtight container to keep pet food fresh.,true,553,35587.1
+64,Ramen Noodles,Quick-cooking ramen for instant meals.,false,68,9368.03
+76,Manual Coffee Grinder,Compact coffee grinder for fresh ground coffee beans.,false,220,4903.36
+23,Garlic Parmesan Roasted Nuts,"Savory, roasted nuts seasoned with garlic and parmesan.",false,250,10249.49
+87,Fitbit Activity Tracker,Advanced wristband that tracks daily activities and sleep.,false,511,40865.67
+77,Nut Mix,A blend of mixed nuts for snacking.,false,582,48367.66
+48,Cauliflower Pizza Crust,Healthy pizza crust made from cauliflower,false,191,52796.82
+66,Surimi Crab Sticks,"Synthetic crab meat sticks, great for salads and sushi.",true,453,29881.4
+24,Reusable Silicone Food Storage Bags,Eco-friendly bags for storing food without plastic waste.,false,207,9957.1
+61,Wireless Keyboard and Mouse Combo,Compact wireless set for easy computer usability.,false,543,5951.93
+59,Digital Thermostat,Programmable digital thermostat for home heating.,false,325,34208.36
+24,Computer Monitor Stand,Ergonomic monitor stand for improved workspace organization.,false,388,4206.43
+30,Mixed Berry Smoothie Pack,"Frozen berries blend perfect for smoothies, just add yogurt.",true,287,4640.28
+20,Bamboo Toothbrush,Eco-friendly bamboo toothbrush for sustainable living.,false,268,33050.29
+64,Honey Mustard Pretzel Bites,"Delicious pretzel bites with a sweet honey mustard flavor, perfect for dipping.",true,411,41078.77
+86,LED Makeup Mirror,Illuminated vanity mirror with adjustable brightness settings.,true,588,21764.13
+95,Cotton Tote Bag Set,Reusable tote bags for shopping and eco-friendly living.,true,15,36456.7
+83,Ice Cream,"Rich and creamy ice cream, available in various flavors.",true,340,9783.42
+59,Spicy Avocado Salsa,"A zesty salsa made from ripe avocados, tomatoes, onions, and jalapeños, great for dipping or topping.",true,317,41126.9
+84,Cheddar Cheese Crackers,Crunchy crackers topped with real cheddar cheese flavor.,true,1,20989.14
+21,Laptop Stand,Adjustable laptop stand for better ergonomics.,true,76,15714.03
+21,Sushi Rice,Short-grain sushi rice for perfect rolls.,false,570,30653.61
+95,Lemon Dill Chicken Skewers,"Marinated chicken skewers with lemon and dill flavor, grilled to perfection.",false,398,6059.0
+38,Honey BBQ Ribs,Tender ribs smothered in a honey barbecue sauce.,false,194,58405.65
+81,Cucumber Relish,"Sweet relish made from cucumbers, perfect for sandwiches.",true,360,39101.76
+25,Non-Toxic Concrete Sealer,Eco-friendly sealer for protecting concrete surfaces.,true,330,48205.07
+43,Oats,"Organic rolled oats, great for breakfast or baking.",false,591,32055.06
+23,Berry Smoothie Mix,Frozen mix for quick berry smoothies.,true,85,18015.46
+39,Phone Screen Protector,Tempered glass screen protector for smartphones.,false,504,22979.89
+61,Bamboo Toothbrush,Eco-friendly bamboo toothbrush for sustainable living.,false,262,13418.73
+62,Protein Powder,High-quality whey protein powder for muscle recovery.,true,54,2722.97
+99,Kids' Craft Supplies Set,Variety pack of craft supplies for kids' projects.,true,461,30727.86
+50,Pineapple Teriyaki Chicken Mix,A perfect blend of pineapple and teriyaki for stir-fry.,true,566,4619.82
+90,Car Seat Organizer,Storage solutions for keeping your car tidy and organized.,true,2,16507.74
+95,Stainless Steel Water Bottle,Durable and insulated water bottle to keep beverages cold.,false,353,54485.32
+29,Pasta Sauce Mix,Just add water for a quick pasta sauce.,true,243,20872.24
+87,Garden Hoses with Expandable Features,"Lightweight, expandable hoses for easy handling.",true,537,16254.8
+97,Portable Speaker Stand,Adjustable stand for portable speakers and devices.,true,137,22645.72
+77,Coconut Flakes,Unsweetened coconut flakes for baking and topping.,true,414,36071.98
+54,Habanero Hot Sauce,Fiery hot sauce made with fresh habaneros and spices.,true,586,59598.1
+76,Herbal Garden Starter Kit,Indoor gardening kit with herbs and pots.,false,189,5583.73
+73,Almond Flour Biscuits,Gluten-free biscuits made with almond flour.,false,406,57170.14
+22,Belted Trench Coat,Timeless belted trench coat for a polished look during fall.,false,493,13935.78
+31,Pumpkin Ice Cream,"Seasonal pumpkin ice cream, perfect for fall.",true,76,59580.91
+97,Veggie Burger Patties,Delicious veggie burger patties for grilling or frying.,true,245,55224.54
+21,Watercolor Brush Pens,Set of brush pens for colorful and creative painting.,false,432,59184.59
+36,Sliced Provolone Cheese,Mild cheese great for sandwiches.,true,358,11116.86
+34,Avocado Lime Dressing,"Refreshing dressing made with avocado and lime, perfect for salads.",true,549,50340.48
+70,Portable Pet Bathing Tool,Handheld sprayer designed for washing pets easily.,false,152,13077.07
+46,Kale Salad with Lemon Dressing,"Fresh kale salad with a zesty lemon dressing, great as a side dish.",false,347,8638.11
+52,Creamy Avocado Dip,"Rich and creamy dip made with real avocado, great for chips.",true,281,55834.59
+95,Grilled Vegetable Medley,"A mix of grilled vegetables, ready to heat for quick side dishes.",true,160,6177.33
+75,Chocolate Fudge Brownie Mix,Just add water for delicious brownies.,true,257,21731.57
+38,Electric Wax Warmer,Wax warmer for creating a soothing atmosphere with fragrances.,false,518,36183.68
+48,Portable UV Sterilizer,Compact sterilizer for disinfecting small items.,true,478,5921.67
+57,Cotton Sweatpants,Soft and breathable cotton sweatpants perfect for lounging or workouts.,false,531,32832.83
+71,Wireless Charger Stand,Convenient charging stand for smartphones and devices.,true,231,10423.29
+75,Beard Grooming Kit,Everything you need for maintaining a healthy beard.,true,193,54438.0
+80,Beard Grooming Kit,Everything you need for maintaining a healthy beard.,true,170,35692.34
+20,Measuring Cups Set,Stackable measuring cups made from stainless steel.,false,243,41309.55
+95,Collapsible Folding Chair,Lightweight and portable chair for camping or events.,true,516,49574.84
+42,Inflatable Party Cooler,Fun inflatable cooler to keep drinks cold at parties.,false,176,41557.93
+46,Kids' Art Easel,Double-sided art easel for painting and drawing.,false,433,56968.24
+78,Dog Training Whistle,High-frequency whistle for training your dog effectively.,false,422,24969.96
+57,Mango Chutney,Sweet and tangy mango chutney for a flavorful dip.,false,565,11752.49
+61,Vegetable Stir-Fry Kit,"A mix of fresh vegetables with a savory stir-fry sauce, ready to cook.",false,406,19023.58
+97,Apple Sauce,"Unsweetened apple sauce, great for snacks or baking.",true,115,27789.68
+74,Oven-Baked Potato Chips,Light and crispy baked potato chips in assorted flavors.,true,277,20690.73
+100,Kitchen Knife Sharpening System,Professional sharpening system for kitchen knives.,true,62,56024.17
+75,Mediterranean Couscous,"Flavored couscous with herbs and spices, perfect as a side dish or a base for salads.",false,359,14595.83
+34,Pineapple Rings,Delicious canned pineapple rings for desserts or salads.,false,255,21642.65
+73,Baked Falafel Balls,"Frozen falafel balls made from chickpeas and herbs, perfect for quick meals or salads.",true,107,36323.18
+82,Apple Cinnamon Breakfast Muffins,Delicious muffins filled with apples and a hint of cinnamon for breakfast.,false,314,21023.08
+100,High-Speed HDMI Cable,Durable cable for connecting devices with high-definition video.,false,144,5481.31
+56,Chocolate Chip Cookie Mix,Everything you need to bake delicious chocolate chip cookies.,false,297,51818.04
+39,Lentil Soup,"Flavorful lentil soup, perfect for a quick meal.",true,380,1356.37
+33,Creamy Avocado Dip,"Rich and creamy dip made with real avocado, great for chips.",false,153,53174.56
+63,Slingback Sandals,Chic slingback sandals for a relaxed summer vibe.,true,524,18889.78
+42,Floral Summer Dress,Light and breezy dress perfect for summer outings with a vibrant floral pattern.,false,420,59249.24
+72,Organic Ramen Noodles,Quick-cooking ramen noodles made with organic wheat.,false,222,19235.73
+32,Vegetable Stock,Rich vegetable stock for cooking soups and stews.,false,552,17713.0
+33,Whole Wheat Pita Bread,"Soft and fluffy whole wheat pita bread, great for wraps.",true,361,38421.02
+91,Almond Flour Brownies,Deliciously rich brownies made with almond flour.,true,509,59145.91
+27,Granola Bars,"Crispy and chewy granola bars, perfect for on-the-go.",false,297,41417.17
+73,Ground Cinnamon,Freshly ground cinnamon spice for baking or seasoning.,true,110,2124.08
+96,Smartwatch,Stylish smartwatch with fitness tracking features.,false,61,7813.91
+46,Mango Chunks,Frozen mango chunks for smoothies or snacking.,false,207,49062.81
+93,Avocado Oil Mayo,Creamy mayonnaise made with avocado oil for a healthier twist.,true,122,8371.94
+100,Cold Brew Coffee Maker,Brews coffee with a smooth flavor without bitterness.,true,173,23771.35
+55,Apple Cinnamon Instant Oatmeal,"Quick oatmeal packets infused with apple and cinnamon, perfect for breakfast.",true,44,36211.38
+51,Adjustable Kneeling Pad,Comfortable kneeling pad for gardening or home projects.,false,282,28225.29
+55,Kale Caesar Salad Kit,Fresh kale with Caesar dressing and croutons.,false,390,19955.81
+89,Travel Size Toiletry Bottles,Leak-proof bottles for travel-sized toiletries.,true,104,58807.05
+31,Collapsible Camping Cup,Space-saving cup that folds flat for easy storage.,true,216,57526.96
+46,Mobile Workbench,Sturdy mobile workbench with storage options.,true,551,5461.38
+85,Sea Salt Tortilla Chips,"Crunchy tortilla chips with a hint of sea salt, great with dips.",false,580,1966.65
+84,Stainless Steel Cutlery Set,High-quality cutlery set for daily use or special occasions.,false,91,56010.13
+60,Travel Mug,Stainless steel travel mug with spill-proof lid.,false,234,43328.15
+51,Stainless Steel Water Pitcher,Insulated pitcher to keep beverages cold or hot.,false,369,17187.24
+23,Herbal Garden Starter Kit,Indoor gardening kit with herbs and pots.,true,229,29684.29
+68,Artisan Bread,"Freshly baked artisan bread, perfect for sandwiches or toasting.",false,321,59969.35
+53,Handheld Vacuum,Cordless handheld vacuum for quick cleanups.,true,381,58662.02
+54,Vegetable Pizza Rolls,"Frozen pizza rolls filled with vegetables and cheese, perfect for snacks.",false,484,14466.67
+68,Savory Oatmeal Cups,"Savory oatmeal ready to eat, great for breakfast or a snack.",true,456,53777.98
+58,Kids' Science Experiment Kit,Engaging kit with science experiments for children.,false,168,58931.67
+93,Lemon Dill Chicken Skewers,"Marinated chicken skewers with lemon and dill flavor, grilled to perfection.",false,438,35867.86
+82,Pet Bed,Comfortable pet bed for small to medium-sized dogs.,true,584,11158.85
+74,Pasta Sauce Mix,Just add water for a quick pasta sauce.,false,235,22206.44
+86,Zesty Garlic Hummus,Creamy chickpea dip infused with zesty garlic flavor.,true,521,27032.13
+54,Wrap Front Midi Skirt,"Elegant midi skirt with a wrap design, great for both formal and casual events.",true,229,7386.59
+37,Car Escape Tool,Multi-functional tool for emergency situations in the car.,true,465,6308.94
+50,Honey Wheat Pretzels,Crunchy pretzel sticks made with honey and whole wheat.,true,41,26077.85
+77,Foldable Yoga Mat Carry Bag,Durable bag for carrying your yoga mat and accessories.,true,277,14329.18
+76,Terry Cloth Robe,"Soft and comfortable robe, perfect for lounging at home.",true,487,33532.69
+57,Personal Blender with Travel Cup,Blender for smoothies with a portable cup.,false,145,33622.35
+34,Coconut Water,"Refreshing coconut water, perfect for hydration.",true,517,17654.15
+90,Garlic Herb Seasoning,A blend of herbs and garlic for seasoning meats and vegetables.,true,443,6713.0
+51,Peach & Mango Salsa,"A zesty salsa made with peaches and mangos, great for chips.",false,396,42504.53
+95,Caribbean Jerk Marinade,A spicy marinade perfect for chicken and fish.,true,559,29853.89
+41,Floral Wrap Top,A feminine wrap top with a beautiful floral print.,true,4,53321.05
+76,Heat-Resistant Silicone Mat,Protects surfaces while baking or cooking with hot items.,false,126,20988.4
+46,Eggs (dozen),"Farm fresh eggs, essential for breakfast.",false,407,34900.59
+66,Outdoor Picnic Blanket,Water-resistant blanket for picnics and outdoor events.,true,388,27975.62
+98,LED Strip Lights with Remote Control,Color-changing LED lights for home decoration with remote.,false,33,14438.1
+64,Portable Hammock with Stand,Lightweight hammock with a sturdy stand for relaxation anywhere.,true,562,55968.82
+41,Sliced Cucumbers,"Freshly sliced cucumbers, great for salads or snacking.",true,46,34696.66
+36,Garam Masala Spice Blend,A fragrant Indian spice blend for curries and stews.,false,78,48302.7
+88,Peanut Butter Banana Smoothie,Smooth and creamy smoothie made with peanut butter and banana.,false,315,20555.37
+54,Honey Sesame Cashews,Roasted cashews coated in honey and sesame seeds for a sweet treat.,false,200,20193.95
+74,Classic Caesar Salad Kit,Everything you need for a fresh and delicious Caesar salad.,false,386,30974.55
+52,Ramen Noodles,Quick-cooking ramen for instant meals.,false,438,41198.21
+57,Infrared Thermometer,Non-contact thermometer for checking temperatures instantly.,false,403,58984.51
+35,Graphic Hoodie,Bold graphic hoodie featuring a comfortable fit and soft fabric.,true,314,25121.03
+68,Whole Wheat Bread,"Freshly baked whole wheat bread, rich in fiber.",true,356,36356.07
+44,Fettuccine Alfredo Dinner Kit,Easy meal kit for creamy fettuccine Alfredo.,false,324,33744.47
+76,Ribbed Knit Dress,A fitted ribbed knit dress that hugs your curves perfectly.,true,438,36432.18
+45,Thai Red Curry Paste,Spicy and flavorful curry paste for authentic Thai dishes.,true,77,16553.04
+58,Puzzle 3D Model Kit,3D model puzzle kit for creative builders.,true,296,16895.56
+93,Instant Pot,7-in-1 multi-cooker for versatile cooking.,true,213,538.0
+47,Magnetic Curtain Tiebacks,Easy-to-use tiebacks for curtains or drapes.,true,450,36716.08
+74,Roasted Garlic,Savory roasted garlic in a jar for easy use.,false,555,11888.85
+41,Asian Stir-Fry Kit,Prepped vegetables and sauces for a quick Asian stir-fry meal.,true,291,58755.33
+83,Pineapple Coconut Bars,Refreshing dessert bars made with pineapple and coconut.,false,394,43349.68
+45,Safety Pin Dispenser,Handy dispenser for quick access to safety pins.,false,457,23076.22
+57,Spinach Feta Wraps,"Whole wheat wraps filled with spinach, feta, and herbs.",true,263,53024.89
+58,Rustic Italian Bread,"Freshly baked rustic bread, perfect for sandwiches or dipping in olive oil.",false,247,49955.5
+45,Roasted Red Pepper Dip,"A blend of roasted red peppers and spices, perfect for dipping.",true,194,23905.87
+47,Spiralizer,Vegetable spiralizer for healthy meals.,true,554,15495.49
+23,Mini Electric Kettle,Quick boiling kettle for small kitchens and dorms.,true,365,5890.24
+57,Poppy Seed Dressing,"A light and tangy dressing with poppy seeds, perfect for salads.",true,78,22445.22
+22,Roasted Garlic Butter,A flavorful spread made with roasted garlic and creamy butter.,true,291,59082.88
+52,Apple Juice,"Refreshing apple juice, 100% juice with no added sugar.",false,186,28800.47
+73,Smart Water Bottle,Water bottle that tracks your hydration levels.,true,224,37116.92
+25,Puzzle Mat,Foldable mat for jigsaw puzzle assembly.,false,204,53290.67
+39,Pepperoni Pizza Roll-Ups,"Savory pizza filled with pepperoni and cheese, ready to microwave.",true,239,20633.49
+51,Buffalo Cauliflower Bites,Spicy cauliflower bites for a vegetarian snack.,false,103,52805.1
+99,Thai Red Curry Paste,Spicy and flavorful curry paste for authentic Thai dishes.,false,122,39940.54
+75,USB Flash Drive,32GB USB flash drive with fast data transfer speeds.,false,42,38897.89
+68,Bamboo Toothbrush,Eco-friendly bamboo toothbrush for sustainable living.,false,239,23723.98
+52,Comfort Flats,Everyday flats that combine comfort and style.,false,466,21015.69
+93,Harvest Grain Salad,"A hearty salad with grains, dried fruits, and nuts.",true,470,22480.84
+73,Himalayan Pink Salt,"Natural mineral salt with a subtle flavor, ideal for cooking and seasoning.",false,438,46558.21
+29,Canvas Wall Art,Stylish wall art to enhance home decor.,false,370,5872.8
+81,Fresh Basil Pesto,"A fresh, flavorful basil pesto for pasta and more",true,330,12619.46
+70,Knitted Infinity Scarf,A warm knitted scarf to keep you cozy in winter.,true,516,2780.06
+50,Mesh Laundry Bags Set,Laundry bags perfect for delicates and organizing clothes.,false,267,49832.38
+35,Rechargeable Battery Organizer,Tidy storage solution for rechargeable batteries.,false,4,47824.36
+63,Smart Thermostat with Wi-Fi,Wi-Fi enabled thermostat that learns your habits.,true,89,6006.05
+35,Scented Soy Candles,Hand-poured candles made of natural soy wax.,true,518,17924.7
+42,Set of Silicone Baking Molds,Flexible molds perfect for baking cakes and pastries.,false,25,14005.78
+59,Peanut Butter Granola,Crunchy granola full of peanut butter flavor and oats.,true,370,18439.39
+38,Kids' Crafting Station,Complete station with supplies for kids' art projects.,false,55,50797.77
+47,Mushrooms,"Fresh button mushrooms, great for cooking.",false,253,2221.14
+80,Feta Cheese Crumbles,"Crumbled feta cheese, perfect for salads and Mediterranean dishes.",true,518,48377.96
+55,Mini Food Processor,Compact food processor for quick meal prep.,true,158,42860.64
+72,Honey Sriracha Chicken Bites,"Frozen chicken bites coated in a honey sriracha glaze, spicy and sweet.",true,342,29938.66
+88,Handheld Shower Head,Adjustable shower head for a luxurious shower experience.,true,17,171.76
+55,Portable Jump Starter,Compact jump starter for emergency vehicle starts.,true,172,4271.95
+49,Travel Makeup Organizer,Compact organizer for cosmetics during travel.,true,124,4930.69
+86,Spicy Kimchi,"Traditional Korean fermented vegetables, packed with flavor.",false,130,7186.19
+60,Fitness Jump Box,Durable and adjustable jump box for effective workouts.,true,382,12065.18
+87,LED Disco Ball Light,Fun light that creates a disco atmosphere for parties.,false,313,41473.36
+72,Bamboo Cutting Board Set,Eco-friendly bamboo cutting boards in various sizes.,false,592,33545.66
+22,Cold Brew Coffee Maker,Brews coffee with a smooth flavor without bitterness.,false,233,58535.86
+83,Adjustable Pet Feeder,Convenient feeder that adjusts to your pet's height.,false,257,17669.89
+80,Solar Garden Lights,Energy-efficient lights that charge during the day and illuminate at night.,true,574,26263.2
+74,Kids' STEM Robotics Kit,Educational robotics kit for building and programming.,true,535,12611.68
+29,Educational STEM Kit,Hands-on experience with science and engineering projects.,true,580,6891.26
+97,Zesty Garlic Marinade,"A tangy marinade for meats and veggies, packed with garlic flavor.",false,301,34886.62
+46,Electric Egg Cooker,Automatically cooks eggs to your desired level.,false,441,3815.65
+69,Kettle BBQ Grill,Charcoal kettle grill perfect for backyard barbecues.,false,296,29554.54
+27,Smartphone Gimbal,Stabilizing gimbal for smooth video recording.,true,25,7783.43
+94,Matcha Green Tea Powder,High-quality matcha for making traditional tea or lattes.,false,60,16695.88
+84,Organic Almonds,"Crunchy and nutritious almonds, perfect for snacking.",false,269,47807.79
+100,Aeropress Coffee Maker,Portable coffee maker for rich brews on the go.,true,491,47204.84
+87,Stick Vacuums Cleaner,Cordless vacuum cleaner for quick clean-ups.,true,452,27065.51
+99,LED Table Lamp,Modern LED table lamp with touch control.,false,487,44202.58
+94,Multicolored LED Strip Lights,Flexible LED lights for creative home lighting designs.,false,156,24613.34
+51,Cacao Nibs,"Crunchy cacao nibs, great for adding to smoothies or baking.",true,258,31873.67
+99,Trackpad for Laptop,Wireless trackpad for enhanced laptop navigation.,true,101,27980.47
+47,Silicone Baking Mat Set,Non-stick and reusable mats for easy baking.,true,465,46985.78
+65,Italian Meatballs,"Juicy meatballs made with a blend of beef and pork, seasoned with Italian herbs.",true,520,10685.6
+87,Children's Gardening Set,Fun gardening tools designed specifically for kids.,false,213,17748.99
+72,Infrared Thermometer,Non-contact thermometer for checking temperatures instantly.,true,512,49216.47
+37,Drone,Beginner-friendly drone with HD camera.,true,75,58898.84
+86,Dark Chocolate Covered Raisins,Satisfy your sweet tooth with these dark chocolate-covered raisins.,true,113,51488.0
+66,Spinach and Ricotta Ravioli,Delicious ravioli filled with creamy ricotta and fresh spinach.,false,259,59697.64
+62,Portable Hand Warmer,Rechargeable hand warmer for cold weather comfort.,false,517,36230.14
+41,Ricotta Cheese,"Creamy ricotta cheese, great for cooking or making desserts.",true,27,13319.06
+34,Kitchen Scale,Digital scale for precise cooking measurements.,true,397,12064.42
+53,Wall Art,Abstract canvas print to enhance home decor.,false,570,2805.35
+76,Maple Syrup,Pure maple syrup for pancakes and more.,true,245,6448.67
+48,Garlic Parmesan Roasted Potatoes,Oven-roasted potatoes tossed in garlic and parmesan cheese seasoning.,false,128,48300.8
+66,Portable Air Pump,Compact pump ideal for inflating sports equipment or rafts.,false,94,1261.71
+73,Car Phone Mount,Adjustable phone mount for car dashboard.,false,266,10507.57
