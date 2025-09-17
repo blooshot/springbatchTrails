@@ -1,0 +1,641 @@
+"Classic Caesar Dressing","Rich and creamy Caesar dressing for salads and wraps.","true","167","53839.0","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53839.0
+"
+"Instant Camera","Retro instant camera for capturing and printing photos instantly.","false","35","57939.65","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57939.65
+"
+"Yoga Wheel","Supportive yoga wheel for deep stretching and balance.","false","568","18750.64","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 568
+"
+"Grilled Vegetable Medley","A mix of grilled vegetables, ready to heat for quick side dishes.","false","178","55581.85","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55581.85
+"
+"Lightweight Rain Jacket","Water-resistant jacket ideal for outdoor activities, featuring a packable design.","false","291","58141.42","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58141.42
+"
+"Whole Wheat Pita Bread","Soft and fluffy whole wheat pita bread, great for wraps.","false","537","27813.37","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 537
+"
+"Vegan Protein Powder","Plant-based protein powder for post-workout recovery.","true","116","59769.83","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59769.83
+"
+"Strawberry Banana Smoothie Pack","Frozen smoothie pack with strawberries and bananas.","false","592","23278.9","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 592
+"
+"Nut Mix","A blend of mixed nuts for snacking.","false","521","56920.57","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56920.57
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 521
+"
+"Silicone Baking Mat","Non-stick baking mat for easy cooking and cleanup.","true","585","41767.0","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 585
+"
+"Leather Biker Jacket","Stylish black leather jacket featuring a zip-up front and multiple pockets.","true","533","7442.25","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 533
+"
+"Lemonade Mix","Sweetened powder for refreshing lemonade.","true","512","9627.9","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 512
+"
+"Portable Massage Table","Folding massage table for professional or home use.","true","521","49065.64","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 521
+"
+"Canvas Wall Art","Stylish wall art to enhance home decor.","true","485","54169.61","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54169.61
+"
+"Yoga Blocks","Set of two yoga blocks for increased stability and support.","false","400","55016.59","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55016.59
+"
+"Sesame Seeds","Crunchy seeds perfect for toppings and baking.","true","599","39655.09","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 599
+"
+"Garlic Parmesan Wings","Frozen chicken wings with garlic parmesan sauce.","true","378","56229.6","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56229.6
+"
+"Non-Toxic Crayons for Kids","Safe and vibrant crayons for children's art projects.","true","565","43214.29","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 565
+"
+"Eco-Friendly Yoga Mat","Made from biodegradable materials for eco-conscious yogis.","true","341","58168.05","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58168.05
+"
+"Chicken Sausage","Flavorful chicken sausage, low in fat and fully cooked.","false","555","55986.81","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55986.81
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 555
+"
+"Halloween Decoration Set","Fun decorations for Halloween to set a spooky atmosphere.","false","347","53317.76","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53317.76
+"
+"Art Supplies Organizer","Storage organizer for art supplies and tools.","false","509","909.64","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 509
+"
+"Electric Toothbrush Holder","Sanitary holder that ensures your toothbrush stays clean.","false","579","35202.08","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 579
+"
+"Sushi Roll Kit","All ingredients needed to make your own sushi","false","586","47400.34","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 586
+"
+"Beef Stroganoff Mix","Everything you need to create a hearty beef stroganoff.","false","508","49062.29","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 508
+"
+"Kettle BBQ Grill","Charcoal kettle grill perfect for backyard barbecues.","true","522","4525.04","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 522
+"
+"Beef Tacos","Pre-seasoned beef mix for delicious tacos, just heat and serve.","true","35","52147.27","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52147.27
+"
+"Body Pillow Case","Soft and breathable pillowcase for body pillows.","true","569","18091.43","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 569
+"
+"Canvas Wall Art","Stylish wall art to enhance home decor.","true","413","52435.52","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52435.52
+"
+"Jasmine Rice","Fragrant jasmine rice, perfect as a side dish.","true","597","57659.08","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 597
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 57659.08
+"
+"Garlic Butter Sauce","A rich sauce perfect for pasta or drizzling over vegetables.","true","533","44019.96","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 533
+"
+"Outdoor Picnic Blanket","Water-resistant blanket for picnics and outdoor events.","true","547","53351.12","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 547
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 53351.12
+"
+"Classic Cheesecake Mix","A simple, no-bake cheesecake mix to create your own delicious cheesecake.","true","51","54604.88","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54604.88
+"
+"Herb Garlic Butter","A flavorful garlic butter blend, perfect for cooking or baking.","true","7","57781.52","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57781.52
+"
+"Taro Chips","Crispy chips made from taro root, a wonderful snack.","false","542","9206.97","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 542
+"
+"Teriyaki Beef Strips","Marinated beef strips in teriyaki sauce for easy grilling.","false","527","47048.46","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 527
+"
+"Smart Light Bulbs","Color-changing smart LED bulbs compatible with Alexa.","true","126","58963.98","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58963.98
+"
+"Pumpkin Ice Cream","Seasonal pumpkin ice cream, perfect for fall.","true","514","497.12","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 514
+"
+"Motion Sensor Light","Battery-operated motion sensor light for safety.","false","566","56432.27","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56432.27
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 566
+"
+"Stylish Wide-Leg Trousers","Fashionable wide-leg trousers for a chic silhouette.","true","87","50362.77","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50362.77
+"
+"Plant Pot Drip Trays","Prevent water damage with drip trays for potted plants.","false","505","42522.39","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 505
+"
+"Whole Grain Mustard","Tangy whole grain mustard for sandwiches and dressings.","false","15","53798.94","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53798.94
+"
+"Water-Resistant Bluetooth Speaker","Durable speaker designed for outdoor use with water resistance.","false","272","53299.65","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53299.65
+"
+"Smartphone Tripod with Bluetooth Remote","Tripod with wireless remote for effortless photo-taking.","false","47","52660.98","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52660.98
+"
+"Adjustable Yoga Mat Strap","Convenient strap for carrying yoga mats to class.","false","502","30176.15","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 502
+"
+"Adjustable Laptop Stand","Ergonomic stand for laptops to improve posture while working.","true","115","56295.84","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56295.84
+"
+"Safety First Aid Kit","Comprehensive first aid kit for home or travel emergencies.","true","55","51689.97","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51689.97
+"
+"LED Strip Lights Kit","DIY LED strip lights with remote control.","false","227","52108.01","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52108.01
+"
+"Frozen Berry Medley","A mix of strawberries, blueberries, and raspberries, great for smoothies or desserts.","false","598","55688.03","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 598
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 55688.03
+"
+"Peanut Butter Protein Balls","No-bake energy bites made with peanut butter and oats.","true","599","3814.1","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 599
+"
+"Electric Skillet","Versatile electric skillet for stir-frying and searing.","true","357","54961.86","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54961.86
+"
+"Camping Chair with Cooler","Foldable chair equipped with a cooler pouch.","false","305","57620.23","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57620.23
+"
+"Watering Can with Nozzle","Stylish watering can for plants with easy pouring nozzle.","false","599","49450.57","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 599
+"
+"Frozen Fruit Medley","A mix of strawberries, blueberries, and raspberries, perfect for smoothies.","false","416","56021.42","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56021.42
+"
+"Leather Biker Jacket","Stylish black leather jacket featuring a zip-up front and multiple pockets.","true","541","8507.07","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 541
+"
+"Insulated Lunch Bag","Stylish insulated lunch bag for on-the-go meals.","false","548","1260.77","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 548
+"
+"Voice-Controlled Speaker","Smart speaker with Alexa and music streaming features.","false","478","52825.85","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52825.85
+"
+"Luxe Velvet Blazer","Elevate your outfit with this sophisticated velvet blazer.","true","559","28656.84","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 559
+"
+"Ethically-Sourced Coffee Beans","Freshly roasted coffee beans with rich flavor.","true","523","26702.69","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 523
+"
+"Natural Soy Candles","Eco-friendly soy candles with a variety of scents.","true","304","50961.96","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50961.96
+"
+"Portable Blender","Battery-operated blender for smoothies on the go.","false","591","21505.68","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 591
+"
+"Caribbean Jerk Marinade","A spicy marinade perfect for chicken and fish.","true","546","35120.58","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 546
+"
+"Adjustable Bar Stools","Stylish bar stools with adjustable height and swivel features.","true","66","59804.88","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59804.88
+"
+"Sweet Cherry Tomatoes","Fresh and juicy cherry tomatoes for salads and snacking.","true","526","34525.5","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 526
+"
+"LED Flashing Pet Collar","Safety collar with flashing lights for pets during night walks.","true","256","53068.32","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53068.32
+"
+"Cable Knit Cardigan","Cozy cable knit cardigan to layer during chilly evenings.","true","212","58068.77","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58068.77
+"
+"Hummus Variety Pack","A selection of different flavored hummus, great for snacking.","true","560","53987.46","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 560
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 53987.46
+"
+"Sweet Potato Noodles","Pasta alternative made from sweet potatoes, gluten-free and rich in flavor.","false","591","24629.34","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 591
+"
+"Herbed Chicken Breast","Marinated chicken breast seasoned with herbs, ready for grilling.","true","584","23400.82","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 584
+"
+"Portable Dog Water Bottle","Convenient water bottle for pets on the go.","true","504","13598.56","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 504
+"
+"Ice Pack","Reusable gel ice pack for injuries and cooling.","false","278","57339.32","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57339.32
+"
+"Chocolate Dipped Fruit","Fruits dipped in rich chocolate, perfect for desserts.","true","3","50261.86","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50261.86
+"
+"Electric Ice Cream Maker","Make delicious ice cream at home with this user-friendly machine.","false","581","48406.29","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 581
+"
+"Fleece Throw Blanket","Super soft fleece blanket, perfect for coziness.","true","545","15617.4","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 545
+"
+"Mini Projector","Portable projector with 1080p resolution for movies.","false","571","13062.39","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 571
+"
+"Spaghetti and Meatball Dinner Kit","All-in-one meal kit including pasta, meatballs, and sauce for a quick dinner.","false","214","52385.47","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52385.47
+"
+"Electric Fondue Pot","Set for making fondue at home.","true","516","45431.29","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 516
+"
+"Oven-Baked Parmesan Zucchini","Frozen zucchini slices coated in parmesan cheese, perfect for baking or frying.","false","600","6020.17","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 600
+"
+"Chocolate Chip Pancake Mix","Easy-to-make pancake mix with chocolate chips included.","false","377","50775.74","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50775.74
+"
+"Fried Rice","Pre-cooked vegetable fried rice, just heat and serve.","true","202","57411.53","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57411.53
+"
+"Comfortable Jogger Pants","Relaxed fit joggers made from soft fleece, ideal for lounging or workouts.","false","585","27231.13","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 585
+"
+"Portable Laptop Table","Foldable table for working with laptops anywhere.","false","568","40207.11","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 568
+"
+"Fridge Magnet Set","Fun fridge magnets to decorate your kitchen.","false","173","59497.26","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59497.26
+"
+"Cherry Almond Protein Bar","Nutritious protein bar with cherry and almond flavor, great for on-the-go.","false","226","50771.36","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50771.36
+"
+"Cinnamon Sugar Popcorn","Sweet popcorn coated in a mixture of cinnamon and sugar.","true","543","48505.2","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 543
+"
+"Organic Green Apples","Fresh and tart organic green apples, great for snacking or baking.","true","114","57859.92","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57859.92
+"
+"Workstation Laptop Stand","Adjustable stand to improve ergonomics while working on a laptop.","false","586","28751.57","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 586
+"
+"Tuscan Bean Soup","A hearty mix of beans in a flavorful tomato broth.","false","522","18136.13","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 522
+"
+"Compact Pop-Up Tent","Easy setup tent perfect for camping and outdoor festivals.","true","492","58528.83","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58528.83
+"
+"Organic Coconut Sugar","A natural sweetener made from coconut sap, a healthier alternative to sugar.","false","361","53472.13","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53472.13
+"
+"Electric Heat Press Machine","Ideal for creating custom designs on t-shirts and fabrics.","true","562","12839.97","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 562
+"
+"Beef Stroganoff Mix","Everything you need to create a hearty beef stroganoff.","true","557","24720.3","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 557
+"
+"Classic Vanilla Fudge","Creamy vanilla fudge, a sweet treat for all occasions.","true","567","3392.8","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 567
+"
+"Reusable Silicone Food Storage Bags","Eco-friendly bags for storing food without plastic waste.","false","569","51341.06","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51341.06
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 569
+"
+"Peach Slices (canned)","Juicy peach slices in syrup, perfect for desserts.","false","557","11004.08","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 557
+"
+"Frozen Spinach","Chopped and frozen spinach, ideal for cooking and smoothies.","false","520","47793.7","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 520
+"
+"Green Smoothie Mix","A convenient powder mix combining greens and fruits for smoothies.","false","547","2423.79","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 547
+"
+"Utility Cargo Pants","Practical cargo pants with lots of pockets for functionality.","true","103","53692.54","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53692.54
+"
+"Self-Watering Planter","Planter with self-watering feature for easy plant care.","true","306","53133.01","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53133.01
+"
+"Training Soccer Ball","Durable training soccer ball for practice.","true","268","55750.79","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55750.79
+"
+"Barbecue Chicken Pizza","Pizza topped with barbecue chicken, cheese, and red onions.","true","570","25280.88","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 570
+"
+"Interactive Plush Toy","Soft, cuddly toy that interacts with children.","true","200","59066.56","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59066.56
+"
+"Chipotle Sauce","Spicy sauce made with chipotle peppers","false","546","12282.94","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 546
+"
+"Magnetic Phone Car Mount","Strong magnetic holder for smartphones in cars.","false","582","49027.3","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 582
+"
+"Faux Leather Leggings","Stylish faux leather leggings for a trendy outfit.","true","546","20657.44","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 546
+"
+"Chocolate Chip Energy Balls","No-bake energy balls made with oats, chocolate chips, and honey.","true","568","58007.66","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58007.66
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 568
+"
+"Frozen Broccoli","Nutrient-rich broccoli, easy to add to any meal.","true","504","27393.39","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 504
+"
+"Canned Black Beans","Delicious and hearty black beans, great for soups or salads.","true","565","16787.41","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 565
+"
+"Banana Chips","Crunchy and sweet banana chips, a great on-the-go snack.","false","145","59110.33","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59110.33
+"
+"Savory Oats","Instant oats with a savory twist, such as herbs and spices.","true","450","56273.43","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56273.43
+"
+"Mini Indoor Hydroponic Garden","Grow herbs indoors with this easy-to-use hydroponic garden system.","false","597","22123.47","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 597
+"
+"Falafel Mix","Easy-to-make falafel mix for a tasty vegetarian meal.","true","25","57171.2","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57171.2
+"
+"Coconut Curry Lentils","Lentils cooked in a coconut curry for a hearty meal.","false","298","56677.92","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56677.92
+"
+"Gluten-Free Pancake Mix","Fluffy and delicious pancake mix, perfect for a gluten-free breakfast.","true","579","13435.56","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 579
+"
+"Stylish Wide-Leg Trousers","Fashionable wide-leg trousers for a chic silhouette.","false","512","46702.62","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 512
+"
+"Mini Food Processor","Compact food processor for quick meal prep.","true","162","59276.38","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59276.38
+"
+"Pet Hair Removal Roller","Lint roller designed specifically for removing pet hair from furniture.","false","116","54396.04","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54396.04
+"
+"Veggie Burger Patties","Delicious veggie burger patties for grilling or frying.","true","527","2156.58","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 527
+"
+"Maxi Wrap Dress","A flowy maxi dress perfect for both casual and semi-formal occasions.","false","554","30129.33","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 554
+"
+"Thermostatic Shower Valve Kit","Regulate water temperature for safe and comfortable showers.","false","467","51886.44","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51886.44
+"
+"Adjustable Dog Harness","Comfortable and adjustable harness for dogs.","true","157","54326.39","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54326.39
+"
+"Pet Reflective Vest","Safety vest for pets during nighttime walks.","true","309","55650.91","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55650.91
+"
+"Siphon Coffee Maker","Unique coffee brewing method for a flavorful experience.","false","566","26872.41","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 566
+"
+"Puzzle Mat","Foldable mat for jigsaw puzzle assembly.","false","260","58817.89","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58817.89
+"
+"Honey Wheat Pretzels","Crunchy pretzel sticks made with honey and whole wheat.","true","594","39584.53","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 594
+"
+"Insulated Sport Tumbler","Vacuum-insulated tumbler for beverages on the go.","true","525","24636.45","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 525
+"
+"Pumpkin Waffles","Delicious waffles infused with pumpkin and spices.","false","343","51054.77","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51054.77
+"
+"Personal Security Alarm Keychain","Handy keychain that emits a loud alarm for personal safety.","true","524","26039.23","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 524
+"
+"Digital Camera","Compact digital camera with 20MP resolution.","false","562","4155.16","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 562
+"
+"Robot Vacuum Cleaner","Smart robotic vacuum for automatic cleaning.","false","151","59701.72","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59701.72
+"
+"Casual Long Cardigan","A cozy long cardigan designed for layering in any season.","true","198","56607.27","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56607.27
+"
+"Veggie Burger Patties","Delicious veggie burger patties for grilling or frying.","false","256","52042.06","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52042.06
+"
+"Rustic Italian Breads","Freshly baked artisan bread with a crisp crust and soft center.","false","558","53219.35","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 558
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 53219.35
+"
+"Mushroom Soup (canned)","Creamy soup full of rich mushroom flavor.","false","396","58038.19","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58038.19
+"
+"Chocolate Mint Thins","Mint-flavored chocolate candies for a refreshing treat.","false","169","51752.21","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51752.21
+"
+"Egg Noodles","Wide egg noodles, perfect for casseroles and soups.","true","566","13003.64","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 566
+"
+"Almond Butter Crunch Bar","Nutritious snack bar made with almond butter and protein.","false","598","57037.6","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57037.6
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 598
+"
+"Frozen Cauliflower Rice","Convenient and low-carb alternative to traditional rice.","false","515","39970.44","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 515
+"
+"Smartphone Stand","Adjustable stand for smartphones and tablets.","true","574","42870.98","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 574
+"
+"Ceramic Bakeware Set","Durable ceramic bakeware for casseroles and desserts.","true","586","38842.08","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 586
+"
+"LED Desk Lamp","Dimmable LED desk lamp with USB charging port.","false","510","51681.07","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51681.07
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 510
+"
+"Beef Jerky","Savory, protein-rich beef jerky for on-the-go snacking.","false","569","53389.75","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53389.75
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 569
+"
+"Car Phone Mount","Adjustable phone mount for car dashboard.","true","447","53078.2","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53078.2
+"
+"Multi-Function Meat Tenderizer","Kitchen tool for tenderizing meat to enhance flavors.","true","520","13303.29","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 520
+"
+"Dried Mango Slices","Sweet and chewy dried mango slices, perfect for snacking.","false","327","54307.04","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54307.04
+"
+"Garden Tool Belt","Handy belt for carrying garden tools while working.","false","397","56248.52","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56248.52
+"
+"Coconut Macaroons","Chewy cookies made with coconut, perfect for sweet cravings.","true","445","53647.53","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53647.53
+"
+"Smart Doorbell","Wi-Fi enabled doorbell with HD camera and two-way audio.","true","538","19695.48","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 538
+"
+"Tactical Backpack","Durable and versatile backpack for outdoor and travel use.","false","527","36794.63","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 527
+"
+"Travel Shoe Bags Set","Set of breathable bags for organizing shoes while traveling.","false","163","53219.21","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53219.21
+"
+"BBQ Sauce","A smoky barbecue sauce, ideal for grilling and dipping.","true","223","52494.68","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52494.68
+"
+"Car Sunshade","Windshield sunshade for car interior protection.","true","123","52877.41","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52877.41
+"
+"Faux Fur Throw Blanket","Cozy faux fur blanket to add warmth and style to your home.","true","546","48647.72","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 546
+"
+"Wire Shelving Unit","Adjustable shelving unit for home or garage storage.","false","574","44456.55","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 574
+"
+"Portable Bluetooth Speaker","Compact Bluetooth speaker with rich sound quality.","false","534","35829.17","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 534
+"
+"Miso Soup Mix","Instant miso soup mix, just add hot water for a warm meal.","false","560","39238.39","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 560
+"
+"Foam Roller for Muscle Recovery","Use this foam roller for effective post-workout recovery.","true","527","42668.12","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 527
+"
+"Portable Pet Stroller","Convenient stroller for pets to enjoy outdoor walks.","false","232","52846.82","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52846.82
+"
+"Puffer Winter Coat","A warm and stylish puffer coat perfect for winter weather.","false","64","52260.14","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52260.14
+"
+"Essential Oil Diffuser","Ultrasonic diffuser that helps create a calming atmosphere.","true","554","14882.62","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 554
+"
+"Kids' Activity Book","Fun book filled with puzzles and games for kids.","false","121","56437.25","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56437.25
+"
+"Portable Bluetooth Headphones","Wireless headphones with noise-canceling features.","true","72","59135.71","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59135.71
+"
+"Warm Knit Beanie","Stay warm with this stylish knit beanie in various colors.","false","342","50720.21","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50720.21
+"
+"Car Phone Mount","Adjustable phone mount for car dashboard.","true","44","51607.62","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51607.62
+"
+"Pumpkin Pancake Mix","Easy-to-make pancake mix with pumpkin spice flavor.","false","149","59288.29","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59288.29
+"
+"Car Seat Organizer","Storage solutions for keeping your car tidy and organized.","false","235","59317.47","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59317.47
+"
+"Electric Griddle","Large electric griddle for family meals.","true","137","56300.31","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56300.31
+"
+"Baking Soda","Essential ingredient for baking and cooking.","false","302","53252.67","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53252.67
+"
+"Comfort Flats","Everyday flats that combine comfort and style.","true","27","55424.27","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55424.27
+"
+"LED Flashlight","Bright LED flashlight with adjustable beam.","false","40","56897.19","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56897.19
+"
+"Frozen Mixed Vegetables","A mix of carrots, peas, and corn, easy to stir-fry.","true","263","52291.06","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52291.06
+"
+"Bamboo Cutting Board","Eco-friendly bamboo cutting board for food prep.","false","142","55845.46","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55845.46
+"
+"Artisan Cornbread Mix","Mix for homemade cornbread, just add water and bake for a delicious side.","false","532","56891.8","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56891.8
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 532
+"
+"Puffer Winter Coat","A warm and stylish puffer coat perfect for winter weather.","true","159","50883.4","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50883.4
+"
+"Walnut Halves","Fresh walnut halves for baking or snacking.","true","292","52162.55","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52162.55
+"
+"Throw Pillow Covers","Set of decorative pillow covers to enhance your home decor.","false","92","52187.02","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52187.02
+"
+"Mango Chunks","Frozen mango chunks for smoothies or snacking.","true","557","35448.18","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 557
+"
+"Comfortable Bed Pillow","Supportive pillow designed for a good night's sleep.","false","360","55115.9","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55115.9
+"
+"Organic Coconut Flour","Finely ground flour from dried coconut meat.","true","198","51249.74","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51249.74
+"
+"Kids' Educational Tablet","Learning tablet with kid-friendly educational apps.","false","111","58670.35","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58670.35
+"
+"Aged White Cheddar Popcorn","Light and fluffy popcorn coated in aged white cheddar.","false","108","56563.69","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56563.69
+"
+"Coconut Cream Pie Yogurt","Yogurt with the flavors of coconut cream pie, nice and indulgent.","false","261","55332.47","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55332.47
+"
+"Beef Sirloin Steak","Juicy and tender beef sirloin steak, grass-fed.","true","345","53730.4","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53730.4
+"
+"Cauliflower Crust Pizza","A gluten-free pizza crust made from cauliflower.","true","595","56412.37","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56412.37
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 595
+"
+"First Aid Kit","Comprehensive first aid kit for emergency situations.","true","387","58698.25","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58698.25
+"
+"Rustic Italian Breads","Freshly baked artisan bread with a crisp crust and soft center.","false","562","22113.47","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 562
+"
+"Organic Lentil Soup","A hearty soup made with organic lentils and vegetables.","false","572","5055.65","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 572
+"
+"Breezy Off-The-Shoulder Top","A light and breezy top ideal for warm days.","false","511","9293.53","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 511
+"
+"Artisan Cornbread Mix","Mix for homemade cornbread, just add water and bake for a delicious side.","true","524","50659.28","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 524
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 50659.28
+"
+"Vegetable Fried Rice Mix","A quick and easy fried rice mix with colorful veggies and savory seasoning.","false","530","37608.43","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 530
+"
+"Artisan Bread","Freshly baked artisan bread, perfect for sandwiches or toasting.","true","528","6065.95","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 528
+"
+"Oatmeal Raisin Cookies","Delicious cookies packed with oats and raisins.","true","569","43353.49","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 569
+"
+"Jasmine Rice","Fragrant jasmine rice, perfect as a side dish.","false","571","58730.57","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58730.57
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 571
+"
+"Fashionable Fanny Pack","A trendy fanny pack, perfect for hands-free outings.","true","273","56166.55","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56166.55
+"
+"Over-the-Door Hooks","Convenient hooks that utilize door space for hanging items.","false","29","53637.94","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53637.94
+"
+"Decorative Wall Tapestry","Colorful tapestry to add charm to any room.","true","569","3973.59","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 569
+"
+"Puzzle","Challenging 1000-piece jigsaw puzzle for all ages.","true","579","4512.89","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 579
+"
+"Rechargeable Laptop Battery Pack","Portable battery pack to charge laptops while on the move.","false","570","58101.31","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 570
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 58101.31
+"
+"Crispy Chickpeas","Roasted chickpeas seasoned for a crunchy snack.","true","346","56525.02","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56525.02
+"
+"Heat-Resistant Silicone Mat","Protects surfaces while baking or cooking with hot items.","true","596","26116.61","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 596
+"
+"Organic Coconut Yogurt","Dairy-free yogurt made from coconut milk.","false","346","54180.11","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54180.11
+"
+"Coffee Subscription Service","Monthly subscription for freshly roasted coffee delivered to your door.","true","490","56877.16","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56877.16
+"
+"Flavored Popcorn Mix","Popcorn tossed with sweet or savory flavors for a tasty snack.","true","586","58340.22","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58340.22
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 586
+"
+"Vegan Cheese","Dairy-free cheese alternative for your favorite dishes.","false","584","31246.85","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 584
+"
+"Sliced Provolone Cheese","Mild cheese great for sandwiches.","true","521","18637.65","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 521
+"
+"Indian Curry Sauce","Authentic Indian curry sauce for quick meals.","false","409","56031.26","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56031.26
+"
+"Smart WiFi Plug","Control appliances remotely using your smartphone.","false","506","32752.42","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 506
+"
+"Electric Stool Heater","Heated stool cover for extra comfort during winter.","true","428","50279.58","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50279.58
+"
+"Pet Water Bottle","Portable water bottle for pets when traveling.","false","551","57760.08","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57760.08
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 551
+"
+"Compact Pop-Up Tent","Easy setup tent perfect for camping and outdoor festivals.","false","528","13770.14","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 528
+"
+"Wireless Charger","Qi-certified wireless charger for fast charging.","true","575","11860.98","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 575
+"
+"Cold Brew Coffee Maker","Brews coffee with a smooth flavor without bitterness.","false","501","21391.47","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 501
+"
+"Wall Decals for Kids","Fun and colorful wall decals for children's rooms.","false","344","58298.65","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58298.65
+"
+"Coconut Milk","Rich coconut milk for curries and desserts.","false","310","58660.01","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58660.01
+"
+"Coffee Grinder","Burr coffee grinder for fresh ground coffee.","false","584","14588.71","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 584
+"
+"Sliced Turkey Breast","Oven-roasted sliced turkey, perfect for sandwiches.","true","370","54303.97","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54303.97
+"
+"Terry Cloth Robe","Soft and comfortable robe, perfect for lounging at home.","true","589","20778.32","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 589
+"
+"Frozen Chicken Nuggets","Crispy chicken nuggets for quick meals.","false","432","50644.49","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50644.49
+"
+"Pet Hair Remover","Effective roller for removing pet hair from furniture.","false","253","59313.53","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59313.53
+"
+"Sun Protection Clothing","UV-blocking clothing for outdoor activities.","false","562","50836.98","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50836.98
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 562
+"
+"Travel Eye Mask with Ear Plugs","Comfortable eye mask that includes noise-canceling ear plugs.","true","145","55692.59","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55692.59
+"
+"Gluten-Free Biscuits","Fluffy biscuits made without gluten","true","545","8619.39","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 545
+"
+"Window A/C Unit","Energy-efficient window air conditioner for cooling.","false","580","53820.95","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53820.95
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 580
+"
+"Buffalo Sauce","Spicy buffalo sauce ideal for wings or dipping.","false","535","48608.93","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 535
+"
+"Falafel Mix","Easy-to-make falafel mix for a tasty vegetarian meal.","true","548","39170.87","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 548
+"
+"Garden Hose Reel","Compact hose reel to keep your garden tidy.","false","429","51460.4","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51460.4
+"
+"Herb Seasoned Couscous","Fluffy couscous seasoned with a blend of herbs, perfect as a side dish.","false","558","47059.45","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 558
+"
+"Pasta Sauce Mix","Just add water for a quick pasta sauce.","true","532","13884.18","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 532
+"
+"Organic Coconut Flakes","Unsweetened coconut flakes for baking and snacking.","true","1","52830.23","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52830.23
+"
+"Basic V-Neck T-Shirt","A staple v-neck t-shirt that pairs well with anything.","false","228","57775.7","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57775.7
+"
+"Lemon Herb Chicken","Marinated chicken grilled with lemon and herbs.","true","50","59309.1","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59309.1
+"
+"Personal Blender with Travel Lid","Blender designed for smoothies and shakes on the go.","false","157","52066.33","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52066.33
+"
+"Dark Chocolate Covered Pretzels","Crunchy pretzels dipped in rich dark chocolate.","false","213","57391.13","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57391.13
+"
+"Luxury Rolling Makeup Case","Stylish and spacious case for makeup and beauty products.","true","571","27645.53","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 571
+"
+"Banana Nut Muffins","Moist, fluffy muffins packed with bananas and walnuts for a delightful breakfast or snack.","false","521","59511.91","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59511.91
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 521
+"
+"Pet Food Storage Container","Airtight container to keep pet food fresh.","true","553","35587.1","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 553
+"
+"Fitbit Activity Tracker","Advanced wristband that tracks daily activities and sleep.","false","511","40865.67","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 511
+"
+"Nut Mix","A blend of mixed nuts for snacking.","false","582","48367.66","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 582
+"
+"Cauliflower Pizza Crust","Healthy pizza crust made from cauliflower","false","191","52796.82","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52796.82
+"
+"Wireless Keyboard and Mouse Combo","Compact wireless set for easy computer usability.","false","543","5951.93","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 543
+"
+"LED Makeup Mirror","Illuminated vanity mirror with adjustable brightness settings.","true","588","21764.13","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 588
+"
+"Sushi Rice","Short-grain sushi rice for perfect rolls.","false","570","30653.61","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 570
+"
+"Honey BBQ Ribs","Tender ribs smothered in a honey barbecue sauce.","false","194","58405.65","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58405.65
+"
+"Oats","Organic rolled oats, great for breakfast or baking.","false","591","32055.06","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 591
+"
+"Phone Screen Protector","Tempered glass screen protector for smartphones.","false","504","22979.89","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 504
+"
+"Pineapple Teriyaki Chicken Mix","A perfect blend of pineapple and teriyaki for stir-fry.","true","566","4619.82","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 566
+"
+"Stainless Steel Water Bottle","Durable and insulated water bottle to keep beverages cold.","false","353","54485.32","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54485.32
+"
+"Garden Hoses with Expandable Features","Lightweight, expandable hoses for easy handling.","true","537","16254.8","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 537
+"
+"Habanero Hot Sauce","Fiery hot sauce made with fresh habaneros and spices.","true","586","59598.1","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59598.1
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 586
+"
+"Almond Flour Biscuits","Gluten-free biscuits made with almond flour.","false","406","57170.14","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57170.14
+"
+"Pumpkin Ice Cream","Seasonal pumpkin ice cream, perfect for fall.","true","76","59580.91","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59580.91
+"
+"Veggie Burger Patties","Delicious veggie burger patties for grilling or frying.","true","245","55224.54","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55224.54
+"
+"Watercolor Brush Pens","Set of brush pens for colorful and creative painting.","false","432","59184.59","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59184.59
+"
+"Avocado Lime Dressing","Refreshing dressing made with avocado and lime, perfect for salads.","true","549","50340.48","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50340.48
+ | Error Message: Maximun Quantity 500, FieldName: quantity, Value: 549
+"
+"Creamy Avocado Dip","Rich and creamy dip made with real avocado, great for chips.","true","281","55834.59","Error Message: Maximun Price 50000.00, FieldName: price, Value: 55834.59
+"
+"Electric Wax Warmer","Wax warmer for creating a soothing atmosphere with fragrances.","false","518","36183.68","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 518
+"
+"Cotton Sweatpants","Soft and breathable cotton sweatpants perfect for lounging or workouts.","false","531","32832.83","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 531
+"
+"Beard Grooming Kit","Everything you need for maintaining a healthy beard.","true","193","54438.0","Error Message: Maximun Price 50000.00, FieldName: price, Value: 54438.0
+"
+"Collapsible Folding Chair","Lightweight and portable chair for camping or events.","true","516","49574.84","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 516
+"
+"Kids' Art Easel","Double-sided art easel for painting and drawing.","false","433","56968.24","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56968.24
+"
+"Mango Chutney","Sweet and tangy mango chutney for a flavorful dip.","false","565","11752.49","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 565
+"
+"Kitchen Knife Sharpening System","Professional sharpening system for kitchen knives.","true","62","56024.17","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56024.17
+"
+"Chocolate Chip Cookie Mix","Everything you need to bake delicious chocolate chip cookies.","false","297","51818.04","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51818.04
+"
+"Creamy Avocado Dip","Rich and creamy dip made with real avocado, great for chips.","false","153","53174.56","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53174.56
+"
+"Slingback Sandals","Chic slingback sandals for a relaxed summer vibe.","true","524","18889.78","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 524
+"
+"Floral Summer Dress","Light and breezy dress perfect for summer outings with a vibrant floral pattern.","false","420","59249.24","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59249.24
+"
+"Vegetable Stock","Rich vegetable stock for cooking soups and stews.","false","552","17713.0","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 552
+"
+"Almond Flour Brownies","Deliciously rich brownies made with almond flour.","true","509","59145.91","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 509
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 59145.91
+"
+"Travel Size Toiletry Bottles","Leak-proof bottles for travel-sized toiletries.","true","104","58807.05","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58807.05
+"
+"Collapsible Camping Cup","Space-saving cup that folds flat for easy storage.","true","216","57526.96","Error Message: Maximun Price 50000.00, FieldName: price, Value: 57526.96
+"
+"Mobile Workbench","Sturdy mobile workbench with storage options.","true","551","5461.38","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 551
+"
+"Sea Salt Tortilla Chips","Crunchy tortilla chips with a hint of sea salt, great with dips.","false","580","1966.65","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 580
+"
+"Stainless Steel Cutlery Set","High-quality cutlery set for daily use or special occasions.","false","91","56010.13","Error Message: Maximun Price 50000.00, FieldName: price, Value: 56010.13
+"
+"Artisan Bread","Freshly baked artisan bread, perfect for sandwiches or toasting.","false","321","59969.35","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59969.35
+"
+"Handheld Vacuum","Cordless handheld vacuum for quick cleanups.","true","381","58662.02","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58662.02
+"
+"Savory Oatmeal Cups","Savory oatmeal ready to eat, great for breakfast or a snack.","true","456","53777.98","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53777.98
+"
+"Kids' Science Experiment Kit","Engaging kit with science experiments for children.","false","168","58931.67","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58931.67
+"
+"Pet Bed","Comfortable pet bed for small to medium-sized dogs.","true","584","11158.85","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 584
+"
+"Zesty Garlic Hummus","Creamy chickpea dip infused with zesty garlic flavor.","true","521","27032.13","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 521
+"
+"Coconut Water","Refreshing coconut water, perfect for hydration.","true","517","17654.15","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 517
+"
+"Caribbean Jerk Marinade","A spicy marinade perfect for chicken and fish.","true","559","29853.89","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 559
+"
+"Floral Wrap Top","A feminine wrap top with a beautiful floral print.","true","4","53321.05","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53321.05
+"
+"Portable Hammock with Stand","Lightweight hammock with a sturdy stand for relaxation anywhere.","true","562","55968.82","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 562
+ | Error Message: Maximun Price 50000.00, FieldName: price, Value: 55968.82
+"
+"Infrared Thermometer","Non-contact thermometer for checking temperatures instantly.","false","403","58984.51","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58984.51
+"
+"Roasted Garlic","Savory roasted garlic in a jar for easy use.","false","555","11888.85","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 555
+"
+"Asian Stir-Fry Kit","Prepped vegetables and sauces for a quick Asian stir-fry meal.","true","291","58755.33","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58755.33
+"
+"Spinach Feta Wraps","Whole wheat wraps filled with spinach, feta, and herbs.","true","263","53024.89","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53024.89
+"
+"Spiralizer","Vegetable spiralizer for healthy meals.","true","554","15495.49","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 554
+"
+"Roasted Garlic Butter","A flavorful spread made with roasted garlic and creamy butter.","true","291","59082.88","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59082.88
+"
+"Puzzle Mat","Foldable mat for jigsaw puzzle assembly.","false","204","53290.67","Error Message: Maximun Price 50000.00, FieldName: price, Value: 53290.67
+"
+"Buffalo Cauliflower Bites","Spicy cauliflower bites for a vegetarian snack.","false","103","52805.1","Error Message: Maximun Price 50000.00, FieldName: price, Value: 52805.1
+"
+"Knitted Infinity Scarf","A warm knitted scarf to keep you cozy in winter.","true","516","2780.06","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 516
+"
+"Scented Soy Candles","Hand-poured candles made of natural soy wax.","true","518","17924.7","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 518
+"
+"Kids' Crafting Station","Complete station with supplies for kids' art projects.","false","55","50797.77","Error Message: Maximun Price 50000.00, FieldName: price, Value: 50797.77
+"
+"Feta Cheese Crumbles","Crumbled feta cheese, perfect for salads and Mediterranean dishes.","true","518","48377.96","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 518
+"
+"Bamboo Cutting Board Set","Eco-friendly bamboo cutting boards in various sizes.","false","592","33545.66","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 592
+"
+"Cold Brew Coffee Maker","Brews coffee with a smooth flavor without bitterness.","false","233","58535.86","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58535.86
+"
+"Solar Garden Lights","Energy-efficient lights that charge during the day and illuminate at night.","true","574","26263.2","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 574
+"
+"Kids' STEM Robotics Kit","Educational robotics kit for building and programming.","true","535","12611.68","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 535
+"
+"Educational STEM Kit","Hands-on experience with science and engineering projects.","true","580","6891.26","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 580
+"
+"Italian Meatballs","Juicy meatballs made with a blend of beef and pork, seasoned with Italian herbs.","true","520","10685.6","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 520
+"
+"Infrared Thermometer","Non-contact thermometer for checking temperatures instantly.","true","512","49216.47","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 512
+"
+"Drone","Beginner-friendly drone with HD camera.","true","75","58898.84","Error Message: Maximun Price 50000.00, FieldName: price, Value: 58898.84
+"
+"Dark Chocolate Covered Raisins","Satisfy your sweet tooth with these dark chocolate-covered raisins.","true","113","51488.0","Error Message: Maximun Price 50000.00, FieldName: price, Value: 51488.0
+"
+"Spinach and Ricotta Ravioli","Delicious ravioli filled with creamy ricotta and fresh spinach.","false","259","59697.64","Error Message: Maximun Price 50000.00, FieldName: price, Value: 59697.64
+"
+"Portable Hand Warmer","Rechargeable hand warmer for cold weather comfort.","false","517","36230.14","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 517
+"
+"Wall Art","Abstract canvas print to enhance home decor.","false","570","2805.35","Error Message: Maximun Quantity 500, FieldName: quantity, Value: 570
+"
