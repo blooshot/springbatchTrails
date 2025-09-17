@@ -1,13 +1,15 @@
 package com.krishnadev.InventoryManagement.product.controller;
 
+import com.krishnadev.InventoryManagement.batch.CsvExecutionInitializer;
 import com.krishnadev.InventoryManagement.product.dtos.ProductDTO;
 import com.krishnadev.InventoryManagement.product.service.ProductService;
 import jakarta.validation.Valid;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
+import java.io.FileNotFoundException;
 import java.util.List;
 
 
@@ -18,6 +20,22 @@ public class ProductController {
 
     @Autowired
     private ProductService productService;
+
+    @Autowired
+    private CsvExecutionInitializer csvOrca;
+
+    private static final String FILE_UPLOAD_DIR = "src/main/resources/uploads/MOCK_DATA.csv";
+    private static final String ERRORED_RECORDS_PATH = "src/main/resources/uploads/errored-records.csv";
+
+    @PostMapping("/uploadFile")
+    public ResponseEntity<String>   uploadFile(){
+        try {
+            csvOrca.processCSV(FILE_UPLOAD_DIR,ERRORED_RECORDS_PATH);
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+        return ResponseEntity.ok("success");
+    }
 
     @PostMapping("/add")
     public ResponseEntity<String>   addProduct(@Valid @RequestBody List<ProductDTO> product){
