@@ -8,6 +8,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.io.FileNotFoundException;
 import java.util.List;
@@ -24,13 +25,29 @@ public class ProductController {
     @Autowired
     private CsvExecutionInitializer csvOrca;
 
-    private static final String FILE_UPLOAD_DIR = "src/main/resources/uploads/MOCK_DATA.csv";
+    private static final String HeavyFilePath = "/home/k/Code/Python/Minku/products100k.csv";
+    private static final String MOCK_DATA = "src/main/resources/uploads/MOCK_DATA.csv";
     private static final String ERRORED_RECORDS_PATH = "src/main/resources/uploads/errored-records.csv";
 
     @PostMapping("/uploadFile")
-    public ResponseEntity<String>   uploadFile(){
+    public ResponseEntity<String>   uploadFile(@RequestParam("file") MultipartFile file){
+
+        if (file.isEmpty()) {
+            return ResponseEntity.badRequest().body("Please select a file");
+        }
+        if (file.getSize() > 100000) {
+            return ResponseEntity.badRequest().body("File size should be less than 1MB");
+        }
+        if (!file.getContentType().equals("text/csv")) {
+            return ResponseEntity.badRequest().body("Only CSV files are allowed");
+        }
+        // upload file to s3 or return s3 presigned URL
+
+        // make entry in DB
+
+        // send Event to Kafka about File Upload, kafka will handle the file processing
         try {
-            csvOrca.processCSV(FILE_UPLOAD_DIR,ERRORED_RECORDS_PATH);
+            csvOrca.processCSV(MOCK_DATA,ERRORED_RECORDS_PATH);
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }

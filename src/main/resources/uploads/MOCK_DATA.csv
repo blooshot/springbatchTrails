@@ -1,4 +1,4 @@
-user_id,title,description,instock,quantity,price
+userId,title,description,instock,quantity,price
 90,Mediterranean Olives,A mix of brined Mediterranean olives for snacking.,true,136,23600.52
 69,Bike Repair Tool Kit,Essential tools for bike maintenance and repair.,false,305,333.44
 91,Wireless Charger,Qi-certified wireless charger for fast charging.,false,360,182.27

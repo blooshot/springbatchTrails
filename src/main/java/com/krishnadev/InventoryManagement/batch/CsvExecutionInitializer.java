@@ -1,5 +1,6 @@
 package com.krishnadev.InventoryManagement.batch;
 
+import com.krishnadev.InventoryManagement.batch.Interface.TheReader;
 import com.krishnadev.InventoryManagement.batch.process.CustomProcessor;
 import com.krishnadev.InventoryManagement.batch.reader.CustomReader;
 import com.krishnadev.InventoryManagement.product.dtos.ProductDTO;
@@ -23,11 +24,10 @@ public class CsvExecutionInitializer {
 
     public void processCSV(String uploadFilePath, String ErrorFilePath) throws FileNotFoundException {
 
-        Stream<ProductDTO> dtoStream = reader.createReader(uploadFilePath).stream();
         processor.setErroredRecordsPath(ErrorFilePath);
         processor.setTotalRecordCount(reader.getFileLineCount(uploadFilePath));
-        processor.setChunkSize(100);
-
+        processor.setChunkSize(1000);
+        Stream<ProductDTO> dtoStream = reader.createReader(uploadFilePath).stream();
             try (dtoStream) {
                     dtoStream.forEach(processor::process);
             }finally {
