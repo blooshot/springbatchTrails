@@ -27,9 +27,7 @@ public class CsvExecutionInitializer {
         processor.setErroredRecordsPath(ErrorFilePath);
         processor.setTotalRecordCount(reader.getFileLineCount(uploadFilePath));
         processor.setChunkSize(1000);
-
         Stream<ProductDTO> dtoStream = reader.createReader(uploadFilePath).stream();
-
             try (dtoStream) {
                     dtoStream.forEach(processor::process);
             }finally {
