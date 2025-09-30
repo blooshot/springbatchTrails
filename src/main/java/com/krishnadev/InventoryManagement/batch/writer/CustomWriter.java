@@ -59,7 +59,7 @@ public class CustomWriter {
         log.debug("DB-Adder-Custom writer:{}",item.size());
        List<ProductEntity> productEntityList =  item.stream().map(x->mapper.map(x,ProductEntity.class)).collect(toList());
 //        item.stream().map(x->mapper.map(x,ProductEntity.class)).forEach(productRepository::save);
-        productEntityList.stream().forEach(x->log.debug("DB Added:{}",x));
+//        productEntityList.forEach(x->log.debug("DB Added:{}",x));
 //        log.debug("DB-Adder-Custom writer:{}",);
         productRepository.saveAll(productEntityList);
     }

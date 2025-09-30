@@ -1,5 +1,6 @@
 package com.krishnadev.InventoryManagement.batch.reader;
 
+import com.krishnadev.InventoryManagement.batch.Interface.TheReader;
 import com.krishnadev.InventoryManagement.product.dtos.ProductDTO;
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
@@ -12,13 +13,14 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 @Component
-public class CustomReader {
+public class CustomReader implements TheReader {
 
-    public CsvToBean createReader(String uploadedFile) throws FileNotFoundException {
-        return new CsvToBeanBuilder(new FileReader(uploadedFile))
-                .withType(ProductDTO.class)
-                .build();
-    }
+    public CsvToBean createReader(String uploadedFile){
+
+            return new CsvToBeanBuilder(setFile(uploadedFile))
+                    .withType(ProductDTO.class)
+                    .build();
+           }
 
    public  Long getFileLineCount(String uploadedFile){
         long lineCount = 0;
@@ -31,5 +33,13 @@ public class CustomReader {
 
         // Subtract 1 if your file has a header row
         return lineCount > 0 ? lineCount - 1 : 0;
+    }
+
+    public FileReader setFile(String uploadedFile){
+        try {
+            return new FileReader(uploadedFile);
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
     }
 }//EC

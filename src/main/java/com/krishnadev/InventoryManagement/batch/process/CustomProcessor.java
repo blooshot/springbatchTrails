@@ -71,11 +71,6 @@ public class CustomProcessor {
 
     }
 
-    private ProductDTO convertToDTO(Object item) {
-        ModelMapper modelMapper = new ModelMapper();
-        return modelMapper.map(item, ProductDTO.class);
-    }
-
     public void setErroredRecordsPath(String errorFilePath) {
             writer.setErroredRecordsPath(errorFilePath);
 //        log.debug("ProcessorPath: {}",errorFilePath);
